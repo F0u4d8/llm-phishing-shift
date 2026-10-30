@@ -1,0 +1,721 @@
+﻿id,scenario_id,scenario_desc,message,language,channel,label,label_int,synthetic
+1,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxps://secure.secure-login[.]vip/x,ar,sms,smishing,1,true
+2,s15,charity donation urgent appeal,ساهم بمبلغ 15 ريال في حملة مبادرة العطاء الطارئة: hxxp://my.customer-verify[.]online/ar,ar,sms,smishing,1,true
+3,s09,streaming subscription payment failed,تعذّر خصم 25 دولار. حدّث بطاقتك خلال 6 ساعة لتجنب التعليق: hxxp://customer-verify[.]info,ar,sms,smishing,1,true
+4,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxp://portal.my-account[.]online/id,ar,sms,smishing,1,true
+5,s17,two-factor code confirmation request,طلب تأكيد REF59279: أكد رمز الدخول لمرة واحدة عبر: hxxp://my.auth-check[.]web/go,ar,sms,smishing,1,true
+6,s09,streaming subscription payment failed,باقة الأفلام: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxps://portal.hr-portal[.]vip/go,ar,sms,smishing,1,true
+7,s06,"IT department password expiry, reset now",TX27457: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxps://secure.auth-check[.]vip/x,ar,sms,smishing,1,true
+8,s15,charity donation urgent appeal,صندوق الإغاثة: حملة تبرعات طارئة (TX84911). ساهم عبر: hxxps://portal.claim-now[.]site,ar,sms,smishing,1,true
+9,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 24 ساعة: hxxp://go.claim-now[.]online/ar,ar,sms,smishing,1,true
+10,s06,"IT department password expiry, reset now",ID32233: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://reactivate[.]xyz/ar,ar,sms,smishing,1,true
+11,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://my.secure-login[.]co/x,ar,sms,smishing,1,true
+12,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxp://login.confirm-id[.]info/x,ar,sms,smishing,1,true
+13,s15,charity donation urgent appeal,صندوق الإغاثة: حملة تبرعات طارئة (ID31505). ساهم عبر: hxxp://secure.pay-fee[.]vip,ar,sms,smishing,1,true
+14,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://my.account-check[.]xyz/id,ar,sms,smishing,1,true
+15,s02,"package held by customs, pay a small fee",مصلحة الجمارك: رسوم مستحقة على شحنتك. سدّد 15 دولار لتجنب إرجاع الطرد: hxxp://login.claim-now[.]info/verify,ar,sms,smishing,1,true
+16,s04,"email/account storage full, re-login to keep account",REF4742: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://my.my-account[.]info/go,ar,sms,smishing,1,true
+17,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 2 ساعة. ادفع الآن: hxxps://safe-verify[.]vip,ar,sms,smishing,1,true
+18,s04,"email/account storage full, re-login to keep account",سيتوقف استقبال رسائلك قريباً. أعد تفعيل الحساب عبر: hxxp://login.my-account[.]xyz/ar,ar,sms,smishing,1,true
+19,s12,bank card blocked for suspicious activity,بنك الأمانة: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxps://go.verify-example[.]web/ar,ar,sms,smishing,1,true
+20,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxps://go.pay-fee[.]xyz/id,ar,sms,smishing,1,true
+21,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxp://verify-example[.]site/x,ar,sms,smishing,1,true
+22,s14,"utility bill overdue, disconnection warning",تنبيه PN43388: تأخر في السداد. تفادى الفصل بالدفع: hxxp://login.reset-access[.]tld/id,ar,sms,smishing,1,true
+23,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://go.hr-portal[.]link/verify,ar,sms,smishing,1,true
+24,s04,"email/account storage full, re-login to keep account",INV40360: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://portal.reset-access[.]info/x,ar,sms,smishing,1,true
+25,s07,unpaid invoice from a supplier,مؤسسة التوريدات: يرجى تسوية المبلغ المستحق 15 ريال عبر: hxxp://go.portal-signin[.]web/x,ar,sms,smishing,1,true
+26,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxp://delivery-x[.]online/go,ar,sms,smishing,1,true
+27,s07,unpaid invoice from a supplier,شركة الإمداد: فاتورة TX70701 غير مدفوعة بقيمة 12.50 درهم. ادفع الآن: hxxps://go.update-info[.]online,ar,sms,smishing,1,true
+28,s03,"tax authority refund, confirm bank details",استرداد ضريبي PN57831 بانتظارك. أدخل بياناتك خلال 48 ساعة: hxxp://delivery-x[.]vip/verify,ar,sms,smishing,1,true
+29,s15,charity donation urgent appeal,جمعية الرحمة: حملة تبرعات طارئة (ID43385). ساهم عبر: hxxps://safe-verify[.]xyz,ar,sms,smishing,1,true
+30,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxps://my.account-check[.]tld/x,ar,sms,smishing,1,true
+31,s10,shipping company delivery reschedule link,إشعار توصيل ID93127: طردك جاهز. اختر موعد التسليم: hxxps://gov-service[.]info/verify,ar,sms,smishing,1,true
+32,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxps://billing-x[.]co,ar,sms,smishing,1,true
+33,s03,"tax authority refund, confirm bank details",إشعار TN93381: تمت الموافقة على رد 12.50 ريال. ثبّت حسابك: hxxp://my.confirm-id[.]tld/id,ar,sms,smishing,1,true
+34,s01,"bank account suspended, verify identity",بنك السلام: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://my.cloud-docs[.]link/x,ar,sms,smishing,1,true
+35,s07,unpaid invoice from a supplier,مؤسسة التوريدات: يرجى تسوية المبلغ المستحق 120 درهم عبر: hxxps://go.secure-login[.]vip/go,ar,sms,smishing,1,true
+36,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 2 ساعة. أعد تعيينها الآن: hxxps://portal.secure-login[.]info/x,ar,sms,smishing,1,true
+37,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://portal.pay-fee[.]xyz,ar,sms,smishing,1,true
+38,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 25 درهم بانتظارك. اطلبه خلال 24 ساعة: hxxp://customer-verify[.]online/ar,ar,sms,smishing,1,true
+39,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxp://my.hr-portal[.]link,ar,sms,smishing,1,true
+40,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://customer-verify[.]site/id,ar,sms,smishing,1,true
+41,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 24 ساعة. أعد تعيينها الآن: hxxp://billing-x[.]online/x,ar,sms,smishing,1,true
+42,s04,"email/account storage full, re-login to keep account",تحذير: مساحة بريدك انتهت. سجّل الدخول خلال 2 ساعة: hxxps://go.portal-signin[.]link/id,ar,sms,smishing,1,true
+43,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: لديك مبلغ مسترد 75 ريال. أكد حسابك البنكي لاستلامه: hxxps://login.customer-verify[.]vip/id,ar,sms,smishing,1,true
+44,s08,HR document requires re-authentication,PN52658: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://login.billing-x[.]link,ar,sms,smishing,1,true
+45,s06,"IT department password expiry, reset now",قسم تقنية المعلومات: كلمة مرورك تنتهي خلال 2 ساعة. أعد تعيينها الآن: hxxps://claim-now[.]tld,ar,sms,smishing,1,true
+46,s07,unpaid invoice from a supplier,فاتورتكم REF42000 تجاوزت موعد الاستحقاق. ادفعوا خلال 24 ساعة: hxxp://go.billing-x[.]tld/ar,ar,sms,smishing,1,true
+47,s03,"tax authority refund, confirm bank details",مصلحة الضرائب: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://login.my-account[.]vip/x,ar,sms,smishing,1,true
+48,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://auth-check[.]web/verify,ar,sms,smishing,1,true
+49,s17,two-factor code confirmation request,طلب تأكيد TX30758: أكد رمز الدخول لمرة واحدة عبر: hxxp://login.customer-verify[.]xyz/verify,ar,sms,smishing,1,true
+50,s12,bank card blocked for suspicious activity,محاولة شراء 15 دينار على بطاقتك. أكد أو ارفض العملية: hxxp://portal-signin[.]online,ar,sms,smishing,1,true
+51,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 24 ساعة. ادفع الآن: hxxps://reset-access[.]info/verify,ar,sms,smishing,1,true
+52,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 48 ساعة: hxxps://secure.reactivate[.]link/verify,ar,sms,smishing,1,true
+53,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 24 ساعة لاستلام المنافع: hxxps://secure.claim-now[.]web/ar,ar,sms,smishing,1,true
+54,s10,shipping company delivery reschedule link,إشعار توصيل INV28667: طردك جاهز. اختر موعد التسليم: hxxp://portal.update-info[.]vip,ar,sms,smishing,1,true
+55,s13,shared cloud document needs sign-in,ID31667: ملف بانتظارك على منصة الملفات. اضغط للدخول: hxxp://my.billing-x[.]vip,ar,sms,smishing,1,true
+56,s11,government benefit / social security update,الضمان الاجتماعي: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://go.pay-fee[.]xyz/ar,ar,sms,smishing,1,true
+57,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxp://portal.verify-example[.]xyz/ar,ar,sms,smishing,1,true
+58,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (TX39107). أعد المصادقة للاطلاع: hxxp://my.safe-verify[.]tld/verify,ar,sms,smishing,1,true
+59,s02,"package held by customs, pay a small fee",مصلحة الجمارك: رسوم مستحقة على شحنتك. سدّد 12.50 درهم لتجنب إرجاع الطرد: hxxp://secure.claim-now[.]info/id,ar,sms,smishing,1,true
+60,s09,streaming subscription payment failed,منصة المشاهدة: فشل تجديد اشتراكك. حدّث وسيلة الدفع لمتابعة المشاهدة: hxxps://my.reset-access[.]web/id,ar,sms,smishing,1,true
+61,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://portal.cloud-docs[.]vip/id,ar,sms,smishing,1,true
+62,s05,"prize/lottery win, claim within 24h",جائزة المكافآت: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxps://go.secure-login[.]tld/go,ar,sms,smishing,1,true
+63,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 120 دولار رسوم الملف لإتمام التوظيف: hxxp://login.claim-now[.]vip/x,ar,sms,smishing,1,true
+64,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 75 ريال. أكد بياناتك البنكية لتحويل المبلغ: hxxps://secure.reactivate[.]vip/id,ar,sms,smishing,1,true
+65,s16,job offer requiring an upfront processing fee,TN40775: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://secure.reset-access[.]link/verify,ar,sms,smishing,1,true
+66,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://portal.id-confirm[.]xyz/verify,ar,sms,smishing,1,true
+67,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 6 دقيقة: hxxp://go.billing-x[.]link/ar,ar,sms,smishing,1,true
+68,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 75 درهم بانتظارك. اطلبه خلال 24 ساعة: hxxps://login.portal-signin[.]info/x,ar,sms,smishing,1,true
+69,s13,shared cloud document needs sign-in,REF89745: ملف بانتظارك على سحابة المستندات. اضغط للدخول: hxxp://my.auth-check[.]xyz,ar,sms,smishing,1,true
+70,s07,unpaid invoice from a supplier,شركة الحلول: فاتورة TN84062 غير مدفوعة بقيمة 30 دينار. ادفع الآن: hxxps://gov-service[.]xyz,ar,sms,smishing,1,true
+71,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxps://secure.gov-service[.]site/x,ar,sms,smishing,1,true
+72,s02,"package held by customs, pay a small fee",الجمارك: رسوم مستحقة على شحنتك. سدّد 25 درهم لتجنب إرجاع الطرد: hxxps://my.customer-verify[.]xyz/x,ar,sms,smishing,1,true
+73,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://portal.cloud-docs[.]xyz/go,ar,sms,smishing,1,true
+74,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 2 ساعة عبر hxxp://portal.portal-signin[.]tld/x,ar,sms,smishing,1,true
+75,s01,"bank account suspended, verify identity",مرجع PN37762: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxps://go.auth-check[.]online/go,ar,sms,smishing,1,true
+76,s11,government benefit / social security update,دعم حكومي 25 ريال بانتظارك. أكد بياناتك للاستلام: hxxp://secure.customer-verify[.]info/id,ar,sms,smishing,1,true
+77,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://update-info[.]tld/x,ar,sms,smishing,1,true
+78,s10,shipping company delivery reschedule link,بريد الطرود: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxp://portal.claim-now[.]link/x,ar,sms,smishing,1,true
+79,s06,"IT department password expiry, reset now",PN76472: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxps://my.cloud-docs[.]web,ar,sms,smishing,1,true
+80,s16,job offer requiring an upfront processing fee,TN29221: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://customer-verify[.]web/id,ar,sms,smishing,1,true
+81,s02,"package held by customs, pay a small fee",إدارة الجمارك: رسوم مستحقة على شحنتك. سدّد 12.50 دولار لتجنب إرجاع الطرد: hxxps://secure.pay-fee[.]xyz/id,ar,sms,smishing,1,true
+82,s06,"IT department password expiry, reset now",الدعم التقني: يجب تحديث بيانات دخولك فوراً. اضغط: hxxp://go.secure-login[.]xyz/go,ar,sms,smishing,1,true
+83,s03,"tax authority refund, confirm bank details",هيئة الضرائب: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxps://my.reactivate[.]online/verify,ar,sms,smishing,1,true
+84,s06,"IT department password expiry, reset now",قسم تقنية المعلومات: يجب تحديث بيانات دخولك فوراً. اضغط: hxxps://secure.portal-signin[.]online/verify,ar,sms,smishing,1,true
+85,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://login.secure-login[.]info,ar,sms,smishing,1,true
+86,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 25 دينار. أكد بياناتك البنكية لتحويل المبلغ: hxxps://login.cloud-docs[.]tld/id,ar,sms,smishing,1,true
+87,s10,shipping company delivery reschedule link,إشعار توصيل INV58508: طردك جاهز. اختر موعد التسليم: hxxps://secure.my-account[.]web,ar,sms,smishing,1,true
+88,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxp://secure.customer-verify[.]info,ar,sms,smishing,1,true
+89,s09,streaming subscription payment failed,اشتراكك PN20618 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://my.verify-example[.]site/x,ar,sms,smishing,1,true
+90,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxps://reactivate[.]link/go,ar,sms,smishing,1,true
+91,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 6 ساعة لاستلام المنافع: hxxp://portal.update-info[.]online/go,ar,sms,smishing,1,true
+92,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://verify-example[.]info,ar,sms,smishing,1,true
+93,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://confirm-id[.]site/ar,ar,sms,smishing,1,true
+94,s09,streaming subscription payment failed,منصة المشاهدة: فشل تجديد اشتراكك. حدّث وسيلة الدفع لمتابعة المشاهدة: hxxps://secure.pay-fee[.]info/x,ar,sms,smishing,1,true
+95,s04,"email/account storage full, re-login to keep account",حساب البريد ممتلئ 100%. أعد تسجيل الدخول للحفاظ على حسابك: hxxp://portal-signin[.]site/x,ar,sms,smishing,1,true
+96,s04,"email/account storage full, re-login to keep account",تحذير: مساحة بريدك انتهت. سجّل الدخول خلال 6 ساعة: hxxp://portal.id-confirm[.]web/x,ar,sms,smishing,1,true
+97,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 24 ساعة عبر hxxps://my.billing-x[.]web/go,ar,sms,smishing,1,true
+98,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 2 ساعة. ادفع الآن: hxxps://my.hr-portal[.]co/x,ar,sms,smishing,1,true
+99,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://my.confirm-id[.]site/verify,ar,sms,smishing,1,true
+100,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxps://portal.secure-login[.]web/go,ar,sms,smishing,1,true
+101,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://secure.confirm-id[.]vip/ar,ar,sms,smishing,1,true
+102,s04,"email/account storage full, re-login to keep account",INV50020: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://go.verify-example[.]xyz,ar,sms,smishing,1,true
+103,s02,"package held by customs, pay a small fee",إشعار جمركي TX79243: طردك جاهز بعد دفع 25 دينار. اضغط: hxxps://go.delivery-x[.]info/x,ar,sms,smishing,1,true
+104,s05,"prize/lottery win, claim within 24h",مبروك! فزت في الجائزة الكبرى. اطلب جائزتك خلال 2 ساعة: hxxp://go.confirm-id[.]site/go,ar,sms,smishing,1,true
+105,s12,bank card blocked for suspicious activity,بنك الوفاء: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://login.update-info[.]info/go,ar,sms,smishing,1,true
+106,s08,HR document requires re-authentication,شؤون الموظفين: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://verify-example[.]xyz/id,ar,sms,smishing,1,true
+107,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 12 ساعة. أعد تعيينها الآن: hxxps://confirm-id[.]tld,ar,sms,smishing,1,true
+108,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxps://go.cloud-docs[.]co/verify,ar,sms,smishing,1,true
+109,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 24 دقيقة: hxxps://login.confirm-id[.]info/x,ar,sms,smishing,1,true
+110,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://login.confirm-id[.]info/go,ar,sms,smishing,1,true
+111,s03,"tax authority refund, confirm bank details",استرداد ضريبي REF11330 بانتظارك. أدخل بياناتك خلال 12 ساعة: hxxp://my.id-confirm[.]info/ar,ar,sms,smishing,1,true
+112,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 9.99 ريال. أكد بياناتك البنكية لتحويل المبلغ: hxxp://auth-check[.]xyz/id,ar,sms,smishing,1,true
+113,s17,two-factor code confirmation request,طلب تأكيد ID49386: أكد رمز الدخول لمرة واحدة عبر: hxxp://secure.reactivate[.]web/ar,ar,sms,smishing,1,true
+114,s14,"utility bill overdue, disconnection warning",تنبيه TX43507: تأخر في السداد. تفادى الفصل بالدفع: hxxp://pay-fee[.]vip/go,ar,sms,smishing,1,true
+115,s12,bank card blocked for suspicious activity,محاولة شراء 5 دينار على بطاقتك. أكد أو ارفض العملية: hxxps://my.claim-now[.]site/go,ar,sms,smishing,1,true
+116,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxps://claim-now[.]link,ar,sms,smishing,1,true
+117,s10,shipping company delivery reschedule link,بريد الطرود: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxps://login.auth-check[.]web,ar,sms,smishing,1,true
+118,s13,shared cloud document needs sign-in,REF95207: ملف بانتظارك على الدرايف السحابي. اضغط للدخول: hxxp://portal.billing-x[.]link,ar,sms,smishing,1,true
+119,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxp://login.delivery-x[.]site/x,ar,sms,smishing,1,true
+120,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 120 دينار رسوم الملف لإتمام التوظيف: hxxps://secure.portal-signin[.]xyz,ar,sms,smishing,1,true
+121,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: فاتورتك متأخرة 25 درهم. ادفع لتجنب قطع الخدمة: hxxp://secure.gov-service[.]online/verify,ar,sms,smishing,1,true
+122,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxps://portal.gov-service[.]xyz/go,ar,sms,smishing,1,true
+123,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 48 ساعة لاستلام المنافع: hxxp://my.my-account[.]vip/verify,ar,sms,smishing,1,true
+124,s13,shared cloud document needs sign-in,INV14579: ملف بانتظارك على الدرايف السحابي. اضغط للدخول: hxxp://secure.id-confirm[.]xyz/x,ar,sms,smishing,1,true
+125,s11,government benefit / social security update,الضمان الاجتماعي: بياناتك غير محدثة. حدّثها لتجنب إيقاف المنفعة: hxxp://my.auth-check[.]web,ar,sms,smishing,1,true
+126,s05,"prize/lottery win, claim within 24h",مبروك! فزت في جائزة المكافآت. اطلب جائزتك خلال 48 ساعة: hxxp://portal.pay-fee[.]co/ar,ar,sms,smishing,1,true
+127,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxps://my.claim-now[.]site/verify,ar,sms,smishing,1,true
+128,s01,"bank account suspended, verify identity",مصرف النور: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://login.delivery-x[.]web,ar,sms,smishing,1,true
+129,s04,"email/account storage full, re-login to keep account",تحذير: مساحة حساب البريد انتهت. سجّل الدخول خلال 12 ساعة: hxxps://verify-example[.]xyz/verify,ar,sms,smishing,1,true
+130,s06,"IT department password expiry, reset now",PN13029: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxps://secure.secure-login[.]web/verify,ar,sms,smishing,1,true
+131,s09,streaming subscription payment failed,اشتراكك REF27194 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://confirm-id[.]xyz/x,ar,sms,smishing,1,true
+132,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 45 ريال بانتظارك. اطلبه خلال 24 ساعة: hxxps://account-check[.]web,ar,sms,smishing,1,true
+133,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxp://portal.secure-login[.]site/go,ar,sms,smishing,1,true
+134,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://login.my-account[.]web,ar,sms,smishing,1,true
+135,s04,"email/account storage full, re-login to keep account",تحذير: مساحة بريدك انتهت. سجّل الدخول خلال 12 ساعة: hxxps://go.reset-access[.]site,ar,sms,smishing,1,true
+136,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxp://portal.hr-portal[.]site/x,ar,sms,smishing,1,true
+137,s02,"package held by customs, pay a small fee",شحنتك TX34570 بانتظار رسوم تخليص 9.99 دينار. ادفع خلال 6 ساعة: hxxp://portal.pay-fee[.]tld,ar,sms,smishing,1,true
+138,s08,HR document requires re-authentication,قسم الموارد: لأسباب أمنية أكد دخولك لفتح المستند: hxxp://go.claim-now[.]info,ar,sms,smishing,1,true
+139,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxp://my.auth-check[.]site/id,ar,sms,smishing,1,true
+140,s10,shipping company delivery reschedule link,إشعار توصيل REF42406: طردك جاهز. اختر موعد التسليم: hxxp://go.cloud-docs[.]co/id,ar,sms,smishing,1,true
+141,s16,job offer requiring an upfront processing fee,شركة الرؤية: تم قبولك لوظيفة. ادفع رسوم المعالجة 75 دينار للتعيين: hxxps://go.my-account[.]site/go,ar,sms,smishing,1,true
+142,s16,job offer requiring an upfront processing fee,شركة آفاق: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxp://login.verify-example[.]info/verify,ar,sms,smishing,1,true
+143,s12,bank card blocked for suspicious activity,تنبيه أمني INV31284: بطاقتك موقوفة. أعد تفعيلها خلال 6 ساعة: hxxp://portal.my-account[.]info,ar,sms,smishing,1,true
+144,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: لديك مبلغ مسترد 120 دينار. أكد حسابك البنكي لاستلامه: hxxps://my.my-account[.]info/x,ar,sms,smishing,1,true
+145,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 6 ساعة عبر hxxps://login.safe-verify[.]vip,ar,sms,smishing,1,true
+146,s08,HR document requires re-authentication,قسم الموارد: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxps://login.reactivate[.]site/x,ar,sms,smishing,1,true
+147,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 75 ريال. أكد بياناتك البنكية لتحويل المبلغ: hxxp://login.update-info[.]vip/id,ar,sms,smishing,1,true
+148,s11,government benefit / social security update,هيئة المنافع: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://secure.my-account[.]online/go,ar,sms,smishing,1,true
+149,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxp://secure.reset-access[.]online/id,ar,sms,smishing,1,true
+150,s13,shared cloud document needs sign-in,لديك ملف بانتظار المراجعة (ID45087). أكد هويتك لفتحه: hxxp://portal.reactivate[.]tld/id,ar,sms,smishing,1,true
+151,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 48 ساعة لاستلام المنافع: hxxp://confirm-id[.]online/x,ar,sms,smishing,1,true
+152,s01,"bank account suspended, verify identity",مصرف الاتحاد: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://account-check[.]site/x,ar,sms,smishing,1,true
+153,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxps://go.customer-verify[.]tld/id,ar,sms,smishing,1,true
+154,s06,"IT department password expiry, reset now",REF56452: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://login.gov-service[.]link/x,ar,sms,smishing,1,true
+155,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://portal.claim-now[.]online/go,ar,sms,smishing,1,true
+156,s01,"bank account suspended, verify identity",مصرف الاتحاد: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://portal.id-confirm[.]co/x,ar,sms,smishing,1,true
+157,s12,bank card blocked for suspicious activity,تنبيه أمني ID39632: بطاقتك موقوفة. أعد تفعيلها خلال 48 ساعة: hxxps://confirm-id[.]tld/x,ar,sms,smishing,1,true
+158,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (REF73516). أكد أنه أنت خلال 24 ساعة: hxxps://go.gov-service[.]vip,ar,sms,smishing,1,true
+159,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 15 دولار متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxps://portal.portal-signin[.]vip/x,ar,sms,smishing,1,true
+160,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxps://my.cloud-docs[.]co/verify,ar,sms,smishing,1,true
+161,s08,HR document requires re-authentication,شؤون الموظفين: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://hr-portal[.]link/go,ar,sms,smishing,1,true
+162,s01,"bank account suspended, verify identity",مصرف النور: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://secure.safe-verify[.]tld/id,ar,sms,smishing,1,true
+163,s14,"utility bill overdue, disconnection warning",شركة الكهرباء: فاتورتك متأخرة 45 درهم. ادفع لتجنب قطع الخدمة: hxxp://my.confirm-id[.]web/id,ar,sms,smishing,1,true
+164,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://secure.hr-portal[.]vip/id,ar,sms,smishing,1,true
+165,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxps://customer-verify[.]link/id,ar,sms,smishing,1,true
+166,s02,"package held by customs, pay a small fee",شحنتك PN83551 بانتظار رسوم تخليص 5 دولار. ادفع خلال 6 ساعة: hxxp://go.reactivate[.]info/ar,ar,sms,smishing,1,true
+167,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 48 ساعة: hxxps://go.my-account[.]online,ar,sms,smishing,1,true
+168,s03,"tax authority refund, confirm bank details",استرداد ضريبي TX94898 بانتظارك. أدخل بياناتك خلال 6 ساعة: hxxps://go.confirm-id[.]link/verify,ar,sms,smishing,1,true
+169,s11,government benefit / social security update,وزارة التضامن: بياناتك غير محدثة. حدّثها لتجنب إيقاف المنفعة: hxxp://portal.billing-x[.]xyz/x,ar,sms,smishing,1,true
+170,s04,"email/account storage full, re-login to keep account",REF86234: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://login.pay-fee[.]xyz/ar,ar,sms,smishing,1,true
+171,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxps://pay-fee[.]co/id,ar,sms,smishing,1,true
+172,s10,shipping company delivery reschedule link,شحنتك ID38114 بانتظار تأكيد العنوان. حدد الموعد خلال 72 ساعة: hxxp://portal.claim-now[.]co,ar,sms,smishing,1,true
+173,s07,unpaid invoice from a supplier,شركة الإمداد: يرجى تسوية المبلغ المستحق 12.50 دينار عبر: hxxps://my.safe-verify[.]vip/x,ar,sms,smishing,1,true
+174,s12,bank card blocked for suspicious activity,مصرف الاتحاد: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://portal.my-account[.]tld/x,ar,sms,smishing,1,true
+175,s16,job offer requiring an upfront processing fee,ID71662: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://portal.safe-verify[.]tld/go,ar,sms,smishing,1,true
+176,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxp://my.reset-access[.]web,ar,sms,smishing,1,true
+177,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxp://login.verify-example[.]web/id,ar,sms,smishing,1,true
+178,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxp://secure.billing-x[.]web,ar,sms,smishing,1,true
+179,s01,"bank account suspended, verify identity",مرجع ID69536: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxps://secure.cloud-docs[.]online/verify,ar,sms,smishing,1,true
+180,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://my.portal-signin[.]link/x,ar,sms,smishing,1,true
+181,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 48 دقيقة: hxxp://portal.hr-portal[.]online/verify,ar,sms,smishing,1,true
+182,s09,streaming subscription payment failed,اشتراكك TN51103 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://login.gov-service[.]web/ar,ar,sms,smishing,1,true
+183,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 6 ساعة: hxxps://portal.billing-x[.]online/verify,ar,sms,smishing,1,true
+184,s16,job offer requiring an upfront processing fee,TX81218: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://portal.confirm-id[.]tld/go,ar,sms,smishing,1,true
+185,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 6 ساعة: hxxp://go.billing-x[.]info/id,ar,sms,smishing,1,true
+186,s11,government benefit / social security update,دعم حكومي 45 دينار بانتظارك. أكد بياناتك للاستلام: hxxp://my.id-confirm[.]link,ar,sms,smishing,1,true
+187,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxps://pay-fee[.]xyz/go,ar,sms,smishing,1,true
+188,s11,government benefit / social security update,الضمان الاجتماعي: بياناتك غير محدثة. حدّثها لتجنب إيقاف المنفعة: hxxp://secure.auth-check[.]vip/x,ar,sms,smishing,1,true
+189,s14,"utility bill overdue, disconnection warning",شركة الغاز: مستحقات 75 دينار واجبة الدفع. سدّد عبر: hxxp://portal.safe-verify[.]co,ar,sms,smishing,1,true
+190,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 48 ساعة. أعد تعيينها الآن: hxxp://secure.pay-fee[.]co/ar,ar,sms,smishing,1,true
+191,s09,streaming subscription payment failed,خدمة البث: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxp://portal.gov-service[.]vip/x,ar,sms,smishing,1,true
+192,s06,"IT department password expiry, reset now",الدعم التقني: يجب تحديث بيانات دخولك فوراً. اضغط: hxxps://portal.delivery-x[.]vip/ar,ar,sms,smishing,1,true
+193,s10,shipping company delivery reschedule link,خدمة التوصيل: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxps://portal.update-info[.]info,ar,sms,smishing,1,true
+194,s07,unpaid invoice from a supplier,شركة الإمداد: فاتورة TN68846 غير مدفوعة بقيمة 75 دولار. ادفع الآن: hxxp://verify-example[.]info/ar,ar,sms,smishing,1,true
+195,s02,"package held by customs, pay a small fee",شحنتك INV61687 بانتظار رسوم تخليص 15 درهم. ادفع خلال 12 ساعة: hxxp://go.delivery-x[.]co/ar,ar,sms,smishing,1,true
+196,s02,"package held by customs, pay a small fee",إدارة الجمارك: طردك محتجز. ادفع رسوماً بسيطة 15 دولار للإفراج: hxxp://login.secure-login[.]vip/verify,ar,sms,smishing,1,true
+197,s04,"email/account storage full, re-login to keep account",تحذير: مساحة صندوق بريدك انتهت. سجّل الدخول خلال 12 ساعة: hxxp://login.gov-service[.]link,ar,sms,smishing,1,true
+198,s15,charity donation urgent appeal,صندوق الإغاثة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxp://portal.customer-verify[.]online,ar,sms,smishing,1,true
+199,s02,"package held by customs, pay a small fee",إدارة الجمارك: طردك محتجز. ادفع رسوماً بسيطة 120 درهم للإفراج: hxxps://my.my-account[.]vip,ar,sms,smishing,1,true
+200,s16,job offer requiring an upfront processing fee,شركة الرؤية: تم قبولك لوظيفة. ادفع رسوم المعالجة 75 دولار للتعيين: hxxp://my.my-account[.]tld/id,ar,sms,smishing,1,true
+201,s15,charity donation urgent appeal,مبادرة العطاء: حملة تبرعات طارئة (INV45101). ساهم عبر: hxxps://go.customer-verify[.]info/id,ar,sms,smishing,1,true
+202,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 12 ساعة لاستلام المنافع: hxxp://portal.verify-example[.]tld/id,ar,sms,smishing,1,true
+203,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxp://my.id-confirm[.]web/go,ar,sms,smishing,1,true
+204,s10,shipping company delivery reschedule link,شركة الشحن: لإتمام توصيل طردك أكد التفاصيل وادفع 9.99 دولار: hxxps://portal.id-confirm[.]web/id,ar,sms,smishing,1,true
+205,s02,"package held by customs, pay a small fee",إدارة الجمارك: رسوم مستحقة على شحنتك. سدّد 120 درهم لتجنب إرجاع الطرد: hxxps://my.my-account[.]web/id,ar,sms,smishing,1,true
+206,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 12 ساعة: hxxps://secure.secure-login[.]tld,ar,sms,smishing,1,true
+207,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxp://portal.claim-now[.]site,ar,sms,smishing,1,true
+208,s14,"utility bill overdue, disconnection warning",شركة الغاز: مستحقات 9.99 ريال واجبة الدفع. سدّد عبر: hxxp://secure.safe-verify[.]online/verify,ar,sms,smishing,1,true
+209,s12,bank card blocked for suspicious activity,تنبيه أمني REF40038: بطاقتك موقوفة. أعد تفعيلها خلال 72 ساعة: hxxps://go.portal-signin[.]xyz/go,ar,sms,smishing,1,true
+210,s11,government benefit / social security update,دعم حكومي 15 درهم بانتظارك. أكد بياناتك للاستلام: hxxps://go.gov-service[.]xyz/ar,ar,sms,smishing,1,true
+211,s01,"bank account suspended, verify identity",مصرف الاتحاد: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxps://go.secure-login[.]site/ar,ar,sms,smishing,1,true
+212,s11,government benefit / social security update,وزارة التضامن: حدّث بياناتك لمواصلة صرف الإعانة: hxxps://go.auth-check[.]web/id,ar,sms,smishing,1,true
+213,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (TX24758). أعد المصادقة للاطلاع: hxxps://secure.auth-check[.]link,ar,sms,smishing,1,true
+214,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxps://portal.claim-now[.]tld/id,ar,sms,smishing,1,true
+215,s13,shared cloud document needs sign-in,لديك ملف بانتظار المراجعة (TN32929). أكد هويتك لفتحه: hxxps://my.verify-example[.]info,ar,sms,smishing,1,true
+216,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 45 درهم متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxps://my.claim-now[.]co/ar,ar,sms,smishing,1,true
+217,s12,bank card blocked for suspicious activity,البنك الرقمي: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://portal.confirm-id[.]link/verify,ar,sms,smishing,1,true
+218,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://go.billing-x[.]co/id,ar,sms,smishing,1,true
+219,s09,streaming subscription payment failed,اشتراكك ID24407 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://login.reset-access[.]site,ar,sms,smishing,1,true
+220,s13,shared cloud document needs sign-in,ID90044: ملف بانتظارك على الدرايف السحابي. اضغط للدخول: hxxps://claim-now[.]web/verify,ar,sms,smishing,1,true
+221,s11,government benefit / social security update,TN89306: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxps://go.confirm-id[.]site/ar,ar,sms,smishing,1,true
+222,s01,"bank account suspended, verify identity",مصرف النور: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxp://secure.customer-verify[.]tld/ar,ar,sms,smishing,1,true
+223,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxps://pay-fee[.]tld/go,ar,sms,smishing,1,true
+224,s13,shared cloud document needs sign-in,لديك ملف بانتظار المراجعة (PN89390). أكد هويتك لفتحه: hxxp://go.confirm-id[.]link/go,ar,sms,smishing,1,true
+225,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://my.gov-service[.]xyz,ar,sms,smishing,1,true
+226,s11,government benefit / social security update,TX66446: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxp://cloud-docs[.]info/x,ar,sms,smishing,1,true
+227,s03,"tax authority refund, confirm bank details",استرداد ضريبي TN26077 بانتظارك. أدخل بياناتك خلال 24 ساعة: hxxp://my.delivery-x[.]co/ar,ar,sms,smishing,1,true
+228,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: مستحقات 25 دولار واجبة الدفع. سدّد عبر: hxxp://my.verify-example[.]vip/verify,ar,sms,smishing,1,true
+229,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxp://pay-fee[.]site/go,ar,sms,smishing,1,true
+230,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxp://portal.portal-signin[.]tld/x,ar,sms,smishing,1,true
+231,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: لديك مبلغ مسترد 12.50 درهم. أكد حسابك البنكي لاستلامه: hxxp://go.hr-portal[.]co/go,ar,sms,smishing,1,true
+232,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 5 دينار. أكد بياناتك البنكية لتحويل المبلغ: hxxps://safe-verify[.]xyz/go,ar,sms,smishing,1,true
+233,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 6 ساعة عبر hxxp://login.verify-example[.]vip/go,ar,sms,smishing,1,true
+234,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxps://customer-verify[.]link/ar,ar,sms,smishing,1,true
+235,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 2 ساعة: hxxps://secure.my-account[.]info/x,ar,sms,smishing,1,true
+236,s01,"bank account suspended, verify identity",بنك الأمانة: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://secure.gov-service[.]info/ar,ar,sms,smishing,1,true
+237,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxps://my.my-account[.]co,ar,sms,smishing,1,true
+238,s01,"bank account suspended, verify identity",مرجع ID68233: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxp://hr-portal[.]online,ar,sms,smishing,1,true
+239,s14,"utility bill overdue, disconnection warning",تنبيه TX79797: تأخر في السداد. تفادى الفصل بالدفع: hxxps://portal.auth-check[.]link/verify,ar,sms,smishing,1,true
+240,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 2 ساعة لاستلام المنافع: hxxps://secure.delivery-x[.]online,ar,sms,smishing,1,true
+241,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 30 درهم بانتظارك. اطلبه خلال 24 ساعة: hxxps://my.update-info[.]link/verify,ar,sms,smishing,1,true
+242,s11,government benefit / social security update,دعم حكومي 75 دينار بانتظارك. أكد بياناتك للاستلام: hxxps://login.gov-service[.]info/verify,ar,sms,smishing,1,true
+243,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 12.50 درهم متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxps://portal.reset-access[.]link/verify,ar,sms,smishing,1,true
+244,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 72 ساعة: hxxp://billing-x[.]tld/verify,ar,sms,smishing,1,true
+245,s01,"bank account suspended, verify identity",مرجع PN14444: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxp://portal.id-confirm[.]web/x,ar,sms,smishing,1,true
+246,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxp://login.reset-access[.]vip/verify,ar,sms,smishing,1,true
+247,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 2 دقيقة: hxxp://portal.my-account[.]info/go,ar,sms,smishing,1,true
+248,s03,"tax authority refund, confirm bank details",إشعار ID72574: تمت الموافقة على رد 5 درهم. ثبّت حسابك: hxxp://go.claim-now[.]link/x,ar,sms,smishing,1,true
+249,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://portal.billing-x[.]info/x,ar,sms,smishing,1,true
+250,s16,job offer requiring an upfront processing fee,REF50142: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxps://portal.claim-now[.]online/id,ar,sms,smishing,1,true
+251,s03,"tax authority refund, confirm bank details",إشعار REF67798: تمت الموافقة على رد 120 درهم. ثبّت حسابك: hxxps://secure.cloud-docs[.]link/ar,ar,sms,smishing,1,true
+252,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (INV71924). أكد أنه أنت خلال 72 ساعة: hxxp://go.cloud-docs[.]link/ar,ar,sms,smishing,1,true
+253,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://secure.safe-verify[.]online/go,ar,sms,smishing,1,true
+254,s10,shipping company delivery reschedule link,خدمة التوصيل: لإتمام توصيل طردك أكد التفاصيل وادفع 120 دينار: hxxp://go.safe-verify[.]site/go,ar,sms,smishing,1,true
+255,s08,HR document requires re-authentication,PN38569: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://portal.reset-access[.]co/verify,ar,sms,smishing,1,true
+256,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://portal.customer-verify[.]web/ar,ar,sms,smishing,1,true
+257,s06,"IT department password expiry, reset now",TX24368: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://login.safe-verify[.]tld/ar,ar,sms,smishing,1,true
+258,s08,HR document requires re-authentication,TX54844: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxps://go.secure-login[.]co/verify,ar,sms,smishing,1,true
+259,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxps://portal.account-check[.]site/verify,ar,sms,smishing,1,true
+260,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxps://login.gov-service[.]tld/ar,ar,sms,smishing,1,true
+261,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxps://go.id-confirm[.]xyz/x,ar,sms,smishing,1,true
+262,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxps://secure.reactivate[.]web,ar,sms,smishing,1,true
+263,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://login.reactivate[.]web/go,ar,sms,smishing,1,true
+264,s13,shared cloud document needs sign-in,سحابة المستندات: دعوة لعرض ملف مشترك. سجّل دخولك خلال 6 ساعة: hxxp://go.customer-verify[.]link/x,ar,sms,smishing,1,true
+265,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxp://login.portal-signin[.]online/ar,ar,sms,smishing,1,true
+266,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxps://secure.customer-verify[.]web/id,ar,sms,smishing,1,true
+267,s10,shipping company delivery reschedule link,شركة الشحن: لإتمام توصيل طردك أكد التفاصيل وادفع 12.50 درهم: hxxp://my.reactivate[.]tld/id,ar,sms,smishing,1,true
+268,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxp://my-account[.]co,ar,sms,smishing,1,true
+269,s04,"email/account storage full, re-login to keep account",REF19177: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://portal.verify-example[.]xyz/verify,ar,sms,smishing,1,true
+270,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxps://secure.confirm-id[.]online/verify,ar,sms,smishing,1,true
+271,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxps://confirm-id[.]link/id,ar,sms,smishing,1,true
+272,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://go.reset-access[.]tld,ar,sms,smishing,1,true
+273,s08,HR document requires re-authentication,الموارد البشرية: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxps://my.safe-verify[.]link/id,ar,sms,smishing,1,true
+274,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (PN57636). أعد المصادقة للاطلاع: hxxp://go.gov-service[.]co/ar,ar,sms,smishing,1,true
+275,s02,"package held by customs, pay a small fee",شحنتك TN80956 بانتظار رسوم تخليص 15 ريال. ادفع خلال 24 ساعة: hxxp://portal.my-account[.]xyz/x,ar,sms,smishing,1,true
+276,s03,"tax authority refund, confirm bank details",هيئة الضرائب: لديك مبلغ مسترد 75 درهم. أكد حسابك البنكي لاستلامه: hxxp://go.auth-check[.]vip/id,ar,sms,smishing,1,true
+277,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: مستحقات 25 ريال واجبة الدفع. سدّد عبر: hxxp://my.hr-portal[.]tld/ar,ar,sms,smishing,1,true
+278,s03,"tax authority refund, confirm bank details",استرداد ضريبي TN8102 بانتظارك. أدخل بياناتك خلال 6 ساعة: hxxps://my.account-check[.]vip/x,ar,sms,smishing,1,true
+279,s04,"email/account storage full, re-login to keep account",INV63175: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://my.confirm-id[.]link/x,ar,sms,smishing,1,true
+280,s14,"utility bill overdue, disconnection warning",شركة الغاز: مستحقات 120 درهم واجبة الدفع. سدّد عبر: hxxps://go.verify-example[.]online/verify,ar,sms,smishing,1,true
+281,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (TX99621). أكد بياناتك لاستلامها: hxxps://portal.account-check[.]xyz/id,ar,sms,smishing,1,true
+282,s16,job offer requiring an upfront processing fee,PN84012: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://secure.confirm-id[.]xyz/ar,ar,sms,smishing,1,true
+283,s08,HR document requires re-authentication,قسم الموارد: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://login.portal-signin[.]xyz/go,ar,sms,smishing,1,true
+284,s12,bank card blocked for suspicious activity,مصرف الاتحاد: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://my.cloud-docs[.]info/id,ar,sms,smishing,1,true
+285,s12,bank card blocked for suspicious activity,محاولة شراء 25 درهم على بطاقتك. أكد أو ارفض العملية: hxxps://portal.customer-verify[.]info/go,ar,sms,smishing,1,true
+286,s08,HR document requires re-authentication,قسم الموارد: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxps://go.hr-portal[.]tld/go,ar,sms,smishing,1,true
+287,s11,government benefit / social security update,الضمان الاجتماعي: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://login.account-check[.]xyz/verify,ar,sms,smishing,1,true
+288,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 12 ساعة: hxxp://login.portal-signin[.]online/x,ar,sms,smishing,1,true
+289,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxps://customer-verify[.]online/ar,ar,sms,smishing,1,true
+290,s11,government benefit / social security update,الضمان الاجتماعي: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://account-check[.]vip,ar,sms,smishing,1,true
+291,s05,"prize/lottery win, claim within 24h",السحب الوطني: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://portal.secure-login[.]site/id,ar,sms,smishing,1,true
+292,s04,"email/account storage full, re-login to keep account",PN5662: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://my.reactivate[.]web/ar,ar,sms,smishing,1,true
+293,s03,"tax authority refund, confirm bank details",هيئة الضرائب: لديك مبلغ مسترد 75 دولار. أكد حسابك البنكي لاستلامه: hxxps://auth-check[.]info/ar,ar,sms,smishing,1,true
+294,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxp://secure.billing-x[.]link/x,ar,sms,smishing,1,true
+295,s13,shared cloud document needs sign-in,ID14090: ملف بانتظارك على منصة الملفات. اضغط للدخول: hxxps://secure.reset-access[.]vip/verify,ar,sms,smishing,1,true
+296,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxps://secure.safe-verify[.]vip,ar,sms,smishing,1,true
+297,s12,bank card blocked for suspicious activity,تنبيه أمني TN29716: بطاقتك موقوفة. أعد تفعيلها خلال 12 ساعة: hxxps://go.confirm-id[.]web,ar,sms,smishing,1,true
+298,s11,government benefit / social security update,دعم حكومي 9.99 دينار بانتظارك. أكد بياناتك للاستلام: hxxp://my.pay-fee[.]co,ar,sms,smishing,1,true
+299,s01,"bank account suspended, verify identity",البنك الرقمي: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://go.safe-verify[.]web/go,ar,sms,smishing,1,true
+300,s09,streaming subscription payment failed,منصة المشاهدة: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxp://secure.reactivate[.]site/verify,ar,sms,smishing,1,true
+301,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://portal.cloud-docs[.]web/x,ar,sms,smishing,1,true
+302,s11,government benefit / social security update,TX33567: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxp://portal-signin[.]co/go,ar,sms,smishing,1,true
+303,s15,charity donation urgent appeal,جمعية الرحمة: حملة تبرعات طارئة (INV12242). ساهم عبر: hxxp://login.claim-now[.]xyz,ar,sms,smishing,1,true
+304,s10,shipping company delivery reschedule link,بريد الطرود: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxp://my.hr-portal[.]link/go,ar,sms,smishing,1,true
+305,s11,government benefit / social security update,دعم حكومي 5 درهم بانتظارك. أكد بياناتك للاستلام: hxxps://cloud-docs[.]vip/x,ar,sms,smishing,1,true
+306,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (TN80479). أكد بياناتك لاستلامها: hxxp://secure.customer-verify[.]co/verify,ar,sms,smishing,1,true
+307,s02,"package held by customs, pay a small fee",إشعار جمركي PN44144: طردك جاهز بعد دفع 45 درهم. اضغط: hxxp://my.update-info[.]web/x,ar,sms,smishing,1,true
+308,s01,"bank account suspended, verify identity",مرجع TN56130: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxps://go.safe-verify[.]web/ar,ar,sms,smishing,1,true
+309,s05,"prize/lottery win, claim within 24h",مبروك! فزت في الجائزة الكبرى. اطلب جائزتك خلال 48 ساعة: hxxp://go.billing-x[.]link/ar,ar,sms,smishing,1,true
+310,s01,"bank account suspended, verify identity",البنك الرقمي: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://go.hr-portal[.]xyz/go,ar,sms,smishing,1,true
+311,s17,two-factor code confirmation request,طلب تأكيد INV13670: أكد رمز الدخول لمرة واحدة عبر: hxxps://login.update-info[.]tld/x,ar,sms,smishing,1,true
+312,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://login.pay-fee[.]web/id,ar,sms,smishing,1,true
+313,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxps://portal.claim-now[.]tld/verify,ar,sms,smishing,1,true
+314,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 2 ساعة: hxxp://confirm-id[.]co/id,ar,sms,smishing,1,true
+315,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 45 ريال رسوم الملف لإتمام التوظيف: hxxps://login.verify-example[.]web/verify,ar,sms,smishing,1,true
+316,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxp://login.verify-example[.]online,ar,sms,smishing,1,true
+317,s09,streaming subscription payment failed,اشتراكك INV42880 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://update-info[.]link/x,ar,sms,smishing,1,true
+318,s11,government benefit / social security update,PN18617: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxp://go.pay-fee[.]xyz/verify,ar,sms,smishing,1,true
+319,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: فاتورتك متأخرة 75 درهم. ادفع لتجنب قطع الخدمة: hxxp://portal.pay-fee[.]link/ar,ar,sms,smishing,1,true
+320,s17,two-factor code confirmation request,طلب تأكيد REF70818: أكد رمز الدخول لمرة واحدة عبر: hxxps://secure-login[.]online/go,ar,sms,smishing,1,true
+321,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 25 درهم رسوم الملف لإتمام التوظيف: hxxp://go.portal-signin[.]xyz/id,ar,sms,smishing,1,true
+322,s01,"bank account suspended, verify identity",بنك الوفاء: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://portal.account-check[.]vip,ar,sms,smishing,1,true
+323,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxp://go.secure-login[.]site/go,ar,sms,smishing,1,true
+324,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxp://portal.safe-verify[.]tld/verify,ar,sms,smishing,1,true
+325,s16,job offer requiring an upfront processing fee,شركة آفاق: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxps://login.auth-check[.]co/go,ar,sms,smishing,1,true
+326,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxps://login.confirm-id[.]web/id,ar,sms,smishing,1,true
+327,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxps://login.claim-now[.]vip,ar,sms,smishing,1,true
+328,s03,"tax authority refund, confirm bank details",مصلحة الضرائب: لديك مبلغ مسترد 9.99 درهم. أكد حسابك البنكي لاستلامه: hxxps://my.safe-verify[.]site,ar,sms,smishing,1,true
+329,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxp://customer-verify[.]online/id,ar,sms,smishing,1,true
+330,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 30 دينار رسوم الملف لإتمام التوظيف: hxxp://login.customer-verify[.]xyz/ar,ar,sms,smishing,1,true
+331,s10,shipping company delivery reschedule link,شحنتك INV78039 بانتظار تأكيد العنوان. حدد الموعد خلال 2 ساعة: hxxp://portal.verify-example[.]web/go,ar,sms,smishing,1,true
+332,s06,"IT department password expiry, reset now",الدعم التقني: كلمة مرورك تنتهي خلال 6 ساعة. أعد تعيينها الآن: hxxps://login.reactivate[.]vip/id,ar,sms,smishing,1,true
+333,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://login.hr-portal[.]tld/go,ar,sms,smishing,1,true
+334,s03,"tax authority refund, confirm bank details",استرداد ضريبي INV87720 بانتظارك. أدخل بياناتك خلال 6 ساعة: hxxps://secure.portal-signin[.]info/verify,ar,sms,smishing,1,true
+335,s02,"package held by customs, pay a small fee",إشعار جمركي ID55772: طردك جاهز بعد دفع 25 درهم. اضغط: hxxp://my.confirm-id[.]xyz/go,ar,sms,smishing,1,true
+336,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxps://portal.verify-example[.]web/verify,ar,sms,smishing,1,true
+337,s14,"utility bill overdue, disconnection warning",شركة الكهرباء: مستحقات 75 ريال واجبة الدفع. سدّد عبر: hxxp://login.id-confirm[.]info/go,ar,sms,smishing,1,true
+338,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://my.update-info[.]xyz/id,ar,sms,smishing,1,true
+339,s10,shipping company delivery reschedule link,إشعار توصيل ID10507: طردك جاهز. اختر موعد التسليم: hxxp://go.gov-service[.]web,ar,sms,smishing,1,true
+340,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxp://secure.my-account[.]web/verify,ar,sms,smishing,1,true
+341,s13,shared cloud document needs sign-in,ID84922: ملف بانتظارك على سحابة المستندات. اضغط للدخول: hxxps://my.safe-verify[.]site/id,ar,sms,smishing,1,true
+342,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxps://claim-now[.]online/id,ar,sms,smishing,1,true
+343,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxp://secure.auth-check[.]link/x,ar,sms,smishing,1,true
+344,s15,charity donation urgent appeal,صندوق الإغاثة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxp://login.update-info[.]online/verify,ar,sms,smishing,1,true
+345,s02,"package held by customs, pay a small fee",إشعار جمركي TX25628: طردك جاهز بعد دفع 12.50 دولار. اضغط: hxxps://portal.confirm-id[.]tld/go,ar,sms,smishing,1,true
+346,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: مستحقات 5 درهم واجبة الدفع. سدّد عبر: hxxp://secure.reactivate[.]online/go,ar,sms,smishing,1,true
+347,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxps://my-account[.]link/go,ar,sms,smishing,1,true
+348,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 48 ساعة: hxxp://go.cloud-docs[.]co/ar,ar,sms,smishing,1,true
+349,s09,streaming subscription payment failed,تعذّر خصم 30 دينار. حدّث بطاقتك خلال 48 ساعة لتجنب التعليق: hxxps://cloud-docs[.]tld/ar,ar,sms,smishing,1,true
+350,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://portal.auth-check[.]web/go,ar,sms,smishing,1,true
+351,s02,"package held by customs, pay a small fee",إدارة الجمارك: طردك محتجز. ادفع رسوماً بسيطة 25 درهم للإفراج: hxxps://login.verify-example[.]web/go,ar,sms,smishing,1,true
+352,s02,"package held by customs, pay a small fee",الجمارك: رسوم مستحقة على شحنتك. سدّد 9.99 دينار لتجنب إرجاع الطرد: hxxp://my.reactivate[.]info/go,ar,sms,smishing,1,true
+353,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxp://verify-example[.]tld/verify,ar,sms,smishing,1,true
+354,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://secure.safe-verify[.]vip/verify,ar,sms,smishing,1,true
+355,s08,HR document requires re-authentication,TX44136: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxps://secure-login[.]web/verify,ar,sms,smishing,1,true
+356,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxp://go.gov-service[.]site/ar,ar,sms,smishing,1,true
+357,s08,HR document requires re-authentication,قسم الموارد: لأسباب أمنية أكد دخولك لفتح المستند: hxxp://portal.id-confirm[.]xyz,ar,sms,smishing,1,true
+358,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر منصة الملفات. سجّل الدخول لعرضه: hxxp://go.delivery-x[.]web,ar,sms,smishing,1,true
+359,s01,"bank account suspended, verify identity",بنك الوفاء: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://go.safe-verify[.]xyz/ar,ar,sms,smishing,1,true
+360,s03,"tax authority refund, confirm bank details",هيئة الضرائب: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://hr-portal[.]web/x,ar,sms,smishing,1,true
+361,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://secure.customer-verify[.]co/id,ar,sms,smishing,1,true
+362,s04,"email/account storage full, re-login to keep account",سيتوقف استقبال رسائلك قريباً. أعد تفعيل الحساب عبر: hxxp://reset-access[.]online/x,ar,sms,smishing,1,true
+363,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 5 دينار بانتظارك. اطلبه خلال 24 ساعة: hxxps://portal.my-account[.]site/id,ar,sms,smishing,1,true
+364,s05,"prize/lottery win, claim within 24h",مبروك! فزت في جائزة المكافآت. اطلب جائزتك خلال 6 ساعة: hxxp://secure.reactivate[.]web/id,ar,sms,smishing,1,true
+365,s07,unpaid invoice from a supplier,شركة الإمداد: يرجى تسوية المبلغ المستحق 9.99 ريال عبر: hxxps://login.pay-fee[.]online,ar,sms,smishing,1,true
+366,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://pay-fee[.]web,ar,sms,smishing,1,true
+367,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxps://my.billing-x[.]web/verify,ar,sms,smishing,1,true
+368,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 30 درهم. أكد بياناتك البنكية لتحويل المبلغ: hxxps://go.my-account[.]web/x,ar,sms,smishing,1,true
+369,s10,shipping company delivery reschedule link,إشعار توصيل ID28294: طردك جاهز. اختر موعد التسليم: hxxps://portal.delivery-x[.]co/x,ar,sms,smishing,1,true
+370,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 12.50 ريال متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxps://portal.auth-check[.]co/ar,ar,sms,smishing,1,true
+371,s12,bank card blocked for suspicious activity,محاولة شراء 30 دينار على بطاقتك. أكد أو ارفض العملية: hxxps://go.account-check[.]xyz/id,ar,sms,smishing,1,true
+372,s04,"email/account storage full, re-login to keep account",TX74632: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://portal.customer-verify[.]online/verify,ar,sms,smishing,1,true
+373,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxps://portal.safe-verify[.]co,ar,sms,smishing,1,true
+374,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://login.auth-check[.]vip/go,ar,sms,smishing,1,true
+375,s09,streaming subscription payment failed,تعذّر خصم 30 درهم. حدّث بطاقتك خلال 2 ساعة لتجنب التعليق: hxxps://secure.claim-now[.]site/id,ar,sms,smishing,1,true
+376,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxps://secure.id-confirm[.]xyz/x,ar,sms,smishing,1,true
+377,s08,HR document requires re-authentication,TN25824: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxps://cloud-docs[.]web/ar,ar,sms,smishing,1,true
+378,s12,bank card blocked for suspicious activity,بنك الأمانة: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://login.claim-now[.]co/id,ar,sms,smishing,1,true
+379,s11,government benefit / social security update,هيئة المنافع: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://portal.gov-service[.]co/ar,ar,sms,smishing,1,true
+380,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxps://secure.customer-verify[.]web/x,ar,sms,smishing,1,true
+381,s05,"prize/lottery win, claim within 24h",مبروك! فزت في السحب الوطني. اطلب جائزتك خلال 6 ساعة: hxxps://portal.reset-access[.]xyz/verify,ar,sms,smishing,1,true
+382,s05,"prize/lottery win, claim within 24h",جائزة المكافآت: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxps://go.secure-login[.]site/id,ar,sms,smishing,1,true
+383,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 12 ساعة لاستلام المنافع: hxxps://login.safe-verify[.]xyz/verify,ar,sms,smishing,1,true
+384,s16,job offer requiring an upfront processing fee,شركة الرؤية: تم قبولك لوظيفة. ادفع رسوم المعالجة 5 ريال للتعيين: hxxps://customer-verify[.]site,ar,sms,smishing,1,true
+385,s09,streaming subscription payment failed,تعذّر خصم 12.50 دينار. حدّث بطاقتك خلال 48 ساعة لتجنب التعليق: hxxp://portal.my-account[.]link/id,ar,sms,smishing,1,true
+386,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://portal.claim-now[.]tld,ar,sms,smishing,1,true
+387,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://my.pay-fee[.]online/x,ar,sms,smishing,1,true
+388,s12,bank card blocked for suspicious activity,محاولة شراء 30 دولار على بطاقتك. أكد أو ارفض العملية: hxxp://secure.my-account[.]tld,ar,sms,smishing,1,true
+389,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: مستحقات 45 درهم واجبة الدفع. سدّد عبر: hxxp://secure.verify-example[.]site/verify,ar,sms,smishing,1,true
+390,s11,government benefit / social security update,دعم حكومي 9.99 درهم بانتظارك. أكد بياناتك للاستلام: hxxps://login.customer-verify[.]online/x,ar,sms,smishing,1,true
+391,s16,job offer requiring an upfront processing fee,PN62968: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxps://my.gov-service[.]vip/ar,ar,sms,smishing,1,true
+392,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (INV45588). أكد بياناتك لاستلامها: hxxp://pay-fee[.]site/go,ar,sms,smishing,1,true
+393,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxps://secure.verify-example[.]co/go,ar,sms,smishing,1,true
+394,s05,"prize/lottery win, claim within 24h",جائزة المكافآت: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxps://portal.secure-login[.]web/verify,ar,sms,smishing,1,true
+395,s10,shipping company delivery reschedule link,خدمة التوصيل: لإتمام توصيل طردك أكد التفاصيل وادفع 15 ريال: hxxps://secure.delivery-x[.]site/ar,ar,sms,smishing,1,true
+396,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxps://portal.confirm-id[.]online/ar,ar,sms,smishing,1,true
+397,s09,streaming subscription payment failed,باقة الأفلام: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxps://secure.reactivate[.]web/x,ar,sms,smishing,1,true
+398,s16,job offer requiring an upfront processing fee,شركة آفاق: تم قبولك لوظيفة. ادفع رسوم المعالجة 45 درهم للتعيين: hxxps://login.customer-verify[.]info/id,ar,sms,smishing,1,true
+399,s12,bank card blocked for suspicious activity,محاولة شراء 75 دينار على بطاقتك. أكد أو ارفض العملية: hxxp://verify-example[.]web/x,ar,sms,smishing,1,true
+400,s08,HR document requires re-authentication,REF71464: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://secure.verify-example[.]site/go,ar,sms,smishing,1,true
+401,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://secure-login[.]web/verify,ar,sms,smishing,1,true
+402,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxps://portal.confirm-id[.]tld/go,ar,sms,smishing,1,true
+403,s11,government benefit / social security update,INV14059: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxps://portal.safe-verify[.]tld/x,ar,sms,smishing,1,true
+404,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxps://secure.billing-x[.]xyz/verify,ar,sms,smishing,1,true
+405,s07,unpaid invoice from a supplier,شركة الإمداد: فاتورة PN48437 غير مدفوعة بقيمة 9.99 دينار. ادفع الآن: hxxps://portal.secure-login[.]online,ar,sms,smishing,1,true
+406,s08,HR document requires re-authentication,شؤون الموظفين: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://portal.confirm-id[.]tld/verify,ar,sms,smishing,1,true
+407,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 12 ساعة عبر hxxp://portal.hr-portal[.]web/go,ar,sms,smishing,1,true
+408,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 48 ساعة. ادفع الآن: hxxps://secure.verify-example[.]tld/id,ar,sms,smishing,1,true
+409,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 12.50 ريال. أكد بياناتك البنكية لتحويل المبلغ: hxxp://go.pay-fee[.]link/x,ar,sms,smishing,1,true
+410,s12,bank card blocked for suspicious activity,مصرف الاتحاد: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://login.auth-check[.]site/verify,ar,sms,smishing,1,true
+411,s01,"bank account suspended, verify identity",بنك الوفاء: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxp://portal.hr-portal[.]co/id,ar,sms,smishing,1,true
+412,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://login.confirm-id[.]link/id,ar,sms,smishing,1,true
+413,s09,streaming subscription payment failed,اشتراكك TX13231 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://login.hr-portal[.]tld/verify,ar,sms,smishing,1,true
+414,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://secure.update-info[.]xyz/id,ar,sms,smishing,1,true
+415,s09,streaming subscription payment failed,تعذّر خصم 12.50 دولار. حدّث بطاقتك خلال 72 ساعة لتجنب التعليق: hxxp://secure.my-account[.]tld/ar,ar,sms,smishing,1,true
+416,s12,bank card blocked for suspicious activity,بنك الأمانة: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://portal.my-account[.]web,ar,sms,smishing,1,true
+417,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 2 ساعة لاستلام المنافع: hxxp://secure.cloud-docs[.]site/ar,ar,sms,smishing,1,true
+418,s15,charity donation urgent appeal,مبادرة العطاء: حملة تبرعات طارئة (PN40343). ساهم عبر: hxxp://login.gov-service[.]info,ar,sms,smishing,1,true
+419,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxps://my.confirm-id[.]site/id,ar,sms,smishing,1,true
+420,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://my.cloud-docs[.]info/x,ar,sms,smishing,1,true
+421,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 24 ساعة: hxxp://my.claim-now[.]site/x,ar,sms,smishing,1,true
+422,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (INV85229). أعد المصادقة للاطلاع: hxxps://my.gov-service[.]web,ar,sms,smishing,1,true
+423,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxp://my.reset-access[.]link/x,ar,sms,smishing,1,true
+424,s06,"IT department password expiry, reset now",فريق الأمن التقني: يجب تحديث بيانات دخولك فوراً. اضغط: hxxp://my.delivery-x[.]link,ar,sms,smishing,1,true
+425,s11,government benefit / social security update,الضمان الاجتماعي: حدّث بياناتك لمواصلة صرف الإعانة: hxxps://login.auth-check[.]link/verify,ar,sms,smishing,1,true
+426,s12,bank card blocked for suspicious activity,البنك الرقمي: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxps://secure.confirm-id[.]web,ar,sms,smishing,1,true
+427,s13,shared cloud document needs sign-in,REF72675: ملف بانتظارك على سحابة المستندات. اضغط للدخول: hxxps://portal.pay-fee[.]vip/id,ar,sms,smishing,1,true
+428,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxp://secure.reactivate[.]co/verify,ar,sms,smishing,1,true
+429,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxps://reset-access[.]site/verify,ar,sms,smishing,1,true
+430,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxp://portal.secure-login[.]online/id,ar,sms,smishing,1,true
+431,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxps://portal.billing-x[.]co/x,ar,sms,smishing,1,true
+432,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 120 ريال بانتظارك. اطلبه خلال 24 ساعة: hxxp://delivery-x[.]link,ar,sms,smishing,1,true
+433,s13,shared cloud document needs sign-in,PN77150: ملف بانتظارك على سحابة المستندات. اضغط للدخول: hxxps://secure.id-confirm[.]co/id,ar,sms,smishing,1,true
+434,s12,bank card blocked for suspicious activity,تنبيه أمني PN9949: بطاقتك موقوفة. أعد تفعيلها خلال 2 ساعة: hxxp://portal.my-account[.]tld/id,ar,sms,smishing,1,true
+435,s04,"email/account storage full, re-login to keep account",TN50533: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://my.reactivate[.]tld/ar,ar,sms,smishing,1,true
+436,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxp://go.claim-now[.]info/go,ar,sms,smishing,1,true
+437,s07,unpaid invoice from a supplier,مؤسسة التوريدات: فاتورة REF12465 غير مدفوعة بقيمة 45 ريال. ادفع الآن: hxxps://go.id-confirm[.]site/ar,ar,sms,smishing,1,true
+438,s05,"prize/lottery win, claim within 24h",الجائزة الكبرى: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxps://go.billing-x[.]link/id,ar,sms,smishing,1,true
+439,s13,shared cloud document needs sign-in,TN43384: ملف بانتظارك على سحابة المستندات. اضغط للدخول: hxxp://secure.delivery-x[.]info/ar,ar,sms,smishing,1,true
+440,s02,"package held by customs, pay a small fee",إدارة الجمارك: طردك محتجز. ادفع رسوماً بسيطة 30 درهم للإفراج: hxxp://secure.gov-service[.]link/verify,ar,sms,smishing,1,true
+441,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 6 ساعة عبر hxxps://cloud-docs[.]site/id,ar,sms,smishing,1,true
+442,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://secure.reactivate[.]site/verify,ar,sms,smishing,1,true
+443,s01,"bank account suspended, verify identity",مرجع ID43960: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxp://portal.customer-verify[.]link/x,ar,sms,smishing,1,true
+444,s08,HR document requires re-authentication,شؤون الموظفين: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxps://my.claim-now[.]tld/id,ar,sms,smishing,1,true
+445,s08,HR document requires re-authentication,الموارد البشرية: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://portal.account-check[.]web/x,ar,sms,smishing,1,true
+446,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 48 ساعة لاستلام المنافع: hxxp://my-account[.]site/id,ar,sms,smishing,1,true
+447,s15,charity donation urgent appeal,ساهم بمبلغ 45 ريال في حملة جمعية الرحمة الطارئة: hxxps://go.gov-service[.]web/verify,ar,sms,smishing,1,true
+448,s12,bank card blocked for suspicious activity,بنك الوفاء: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://my-account[.]info/go,ar,sms,smishing,1,true
+449,s16,job offer requiring an upfront processing fee,مجموعة المستقبل: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxps://my.reset-access[.]vip/ar,ar,sms,smishing,1,true
+450,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (INV9386). أعد المصادقة للاطلاع: hxxps://portal.reactivate[.]tld/verify,ar,sms,smishing,1,true
+451,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 12.50 دولار بانتظارك. اطلبه خلال 24 ساعة: hxxps://secure-login[.]web/x,ar,sms,smishing,1,true
+452,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxps://login.confirm-id[.]co/verify,ar,sms,smishing,1,true
+453,s17,two-factor code confirmation request,لتفعيل المصادقة الثنائية أكمل الخطوة بإدخال الرمز: hxxp://login.portal-signin[.]xyz,ar,sms,smishing,1,true
+454,s14,"utility bill overdue, disconnection warning",تنبيه TX66734: تأخر في السداد. تفادى الفصل بالدفع: hxxp://reactivate[.]xyz/ar,ar,sms,smishing,1,true
+455,s02,"package held by customs, pay a small fee",الجمارك: رسوم مستحقة على شحنتك. سدّد 12.50 دينار لتجنب إرجاع الطرد: hxxps://secure.customer-verify[.]vip/ar,ar,sms,smishing,1,true
+456,s12,bank card blocked for suspicious activity,مصرف الاتحاد: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://my.my-account[.]online,ar,sms,smishing,1,true
+457,s16,job offer requiring an upfront processing fee,مجموعة المستقبل: تم قبولك لوظيفة. ادفع رسوم المعالجة 5 درهم للتعيين: hxxp://verify-example[.]web/id,ar,sms,smishing,1,true
+458,s12,bank card blocked for suspicious activity,بنك الوفاء: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://login.billing-x[.]site,ar,sms,smishing,1,true
+459,s02,"package held by customs, pay a small fee",إشعار جمركي PN73731: طردك جاهز بعد دفع 45 درهم. اضغط: hxxp://login.confirm-id[.]tld/id,ar,sms,smishing,1,true
+460,s03,"tax authority refund, confirm bank details",استرداد ضريبي INV91830 بانتظارك. أدخل بياناتك خلال 24 ساعة: hxxps://my.reset-access[.]info/verify,ar,sms,smishing,1,true
+461,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxps://my.my-account[.]info/go,ar,sms,smishing,1,true
+462,s15,charity donation urgent appeal,صندوق الإغاثة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxp://confirm-id[.]xyz/go,ar,sms,smishing,1,true
+463,s09,streaming subscription payment failed,اشتراكك INV10126 معلّق لمشكلة في الدفع. أعد تفعيله: hxxps://login.gov-service[.]site/go,ar,sms,smishing,1,true
+464,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 6 ساعة. أعد تعيينها الآن: hxxp://secure.update-info[.]vip/ar,ar,sms,smishing,1,true
+465,s11,government benefit / social security update,INV38288: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxps://go.cloud-docs[.]web/ar,ar,sms,smishing,1,true
+466,s10,shipping company delivery reschedule link,إشعار توصيل INV98700: طردك جاهز. اختر موعد التسليم: hxxps://go.cloud-docs[.]web/go,ar,sms,smishing,1,true
+467,s15,charity donation urgent appeal,مبادرة العطاء: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxp://portal.auth-check[.]info/verify,ar,sms,smishing,1,true
+468,s04,"email/account storage full, re-login to keep account",TN40699: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://go.auth-check[.]co/id,ar,sms,smishing,1,true
+469,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxp://my.reset-access[.]site,ar,sms,smishing,1,true
+470,s15,charity donation urgent appeal,ساهم بمبلغ 15 ريال في حملة صندوق الإغاثة الطارئة: hxxps://my.account-check[.]vip/ar,ar,sms,smishing,1,true
+471,s11,government benefit / social security update,INV73594: تمت الموافقة على دعم إضافي. أكد أهليتك لاستلامه: hxxp://portal.account-check[.]info/x,ar,sms,smishing,1,true
+472,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 72 ساعة. أعد تعيينها الآن: hxxp://pay-fee[.]tld/ar,ar,sms,smishing,1,true
+473,s08,HR document requires re-authentication,TX16105: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://go.customer-verify[.]xyz,ar,sms,smishing,1,true
+474,s09,streaming subscription payment failed,منصة المشاهدة: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxp://portal.cloud-docs[.]site/x,ar,sms,smishing,1,true
+475,s17,two-factor code confirmation request,طلب تأكيد TX90787: أكد رمز الدخول لمرة واحدة عبر: hxxp://id-confirm[.]info/ar,ar,sms,smishing,1,true
+476,s02,"package held by customs, pay a small fee",إشعار جمركي TN85416: طردك جاهز بعد دفع 12.50 دينار. اضغط: hxxps://login.account-check[.]co/go,ar,sms,smishing,1,true
+477,s02,"package held by customs, pay a small fee",الجمارك: طردك محتجز. ادفع رسوماً بسيطة 75 درهم للإفراج: hxxp://my.pay-fee[.]online/id,ar,sms,smishing,1,true
+478,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxp://portal.update-info[.]co,ar,sms,smishing,1,true
+479,s15,charity donation urgent appeal,ساهم بمبلغ 12.50 درهم في حملة مبادرة العطاء الطارئة: hxxp://go.auth-check[.]link,ar,sms,smishing,1,true
+480,s17,two-factor code confirmation request,طلب تأكيد REF46902: أكد رمز الدخول لمرة واحدة عبر: hxxps://go.account-check[.]web/x,ar,sms,smishing,1,true
+481,s13,shared cloud document needs sign-in,منصة الملفات: دعوة لعرض ملف مشترك. سجّل دخولك خلال 48 ساعة: hxxp://secure.update-info[.]link,ar,sms,smishing,1,true
+482,s15,charity donation urgent appeal,جمعية الرحمة: حملة تبرعات طارئة (TN46626). ساهم عبر: hxxps://portal.pay-fee[.]co/verify,ar,sms,smishing,1,true
+483,s01,"bank account suspended, verify identity",بنك السلام: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://login.reset-access[.]site/x,ar,sms,smishing,1,true
+484,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxps://my.safe-verify[.]xyz/go,ar,sms,smishing,1,true
+485,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxp://go.delivery-x[.]info/id,ar,sms,smishing,1,true
+486,s06,"IT department password expiry, reset now",تحديث أمني إلزامي: أعد ضبط كلمة المرور لتجنب فقد الوصول: hxxp://my.portal-signin[.]site/id,ar,sms,smishing,1,true
+487,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://go.verify-example[.]info/go,ar,sms,smishing,1,true
+488,s12,bank card blocked for suspicious activity,تنبيه أمني TN76882: بطاقتك موقوفة. أعد تفعيلها خلال 72 ساعة: hxxp://confirm-id[.]site/id,ar,sms,smishing,1,true
+489,s09,streaming subscription payment failed,تعذّر خصم 30 درهم. حدّث بطاقتك خلال 72 ساعة لتجنب التعليق: hxxp://gov-service[.]vip/verify,ar,sms,smishing,1,true
+490,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: فاتورتك متأخرة 15 دولار. ادفع لتجنب قطع الخدمة: hxxps://reset-access[.]vip,ar,sms,smishing,1,true
+491,s04,"email/account storage full, re-login to keep account",TN46897: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://portal.reactivate[.]vip,ar,sms,smishing,1,true
+492,s09,streaming subscription payment failed,اشتراكك ID10915 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://portal.customer-verify[.]online/ar,ar,sms,smishing,1,true
+493,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 72 دقيقة: hxxp://go.delivery-x[.]link/verify,ar,sms,smishing,1,true
+494,s07,unpaid invoice from a supplier,مؤسسة التوريدات: يرجى تسوية المبلغ المستحق 25 دينار عبر: hxxps://go.reset-access[.]web/id,ar,sms,smishing,1,true
+495,s02,"package held by customs, pay a small fee",إشعار جمركي REF95591: طردك جاهز بعد دفع 9.99 ريال. اضغط: hxxp://id-confirm[.]xyz/ar,ar,sms,smishing,1,true
+496,s03,"tax authority refund, confirm bank details",استرداد ضريبي ID28049 بانتظارك. أدخل بياناتك خلال 2 ساعة: hxxp://my.reset-access[.]site/go,ar,sms,smishing,1,true
+497,s17,two-factor code confirmation request,طلب تأكيد ID94593: أكد رمز الدخول لمرة واحدة عبر: hxxps://login.billing-x[.]xyz/go,ar,sms,smishing,1,true
+498,s10,shipping company delivery reschedule link,خدمة التوصيل: لإتمام توصيل طردك أكد التفاصيل وادفع 15 دولار: hxxp://auth-check[.]site,ar,sms,smishing,1,true
+499,s16,job offer requiring an upfront processing fee,TN9638: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxp://go.my-account[.]vip/verify,ar,sms,smishing,1,true
+500,s14,"utility bill overdue, disconnection warning",شركة الكهرباء: فاتورتك متأخرة 12.50 دولار. ادفع لتجنب قطع الخدمة: hxxp://secure.hr-portal[.]online/ar,ar,sms,smishing,1,true
+501,s10,shipping company delivery reschedule link,بريد الطرود: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxp://portal.reset-access[.]co/x,ar,sms,smishing,1,true
+502,s12,bank card blocked for suspicious activity,تنبيه أمني INV1291: بطاقتك موقوفة. أعد تفعيلها خلال 48 ساعة: hxxps://customer-verify[.]web/id,ar,sms,smishing,1,true
+503,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 72 ساعة. أعد تعيينها الآن: hxxp://reactivate[.]site/ar,ar,sms,smishing,1,true
+504,s04,"email/account storage full, re-login to keep account",تحذير: مساحة حساب البريد انتهت. سجّل الدخول خلال 24 ساعة: hxxp://secure.verify-example[.]xyz/go,ar,sms,smishing,1,true
+505,s08,HR document requires re-authentication,قسم الموارد: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxp://portal.portal-signin[.]vip/go,ar,sms,smishing,1,true
+506,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxp://auth-check[.]xyz/verify,ar,sms,smishing,1,true
+507,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 72 ساعة. ادفع الآن: hxxp://my.reset-access[.]info/ar,ar,sms,smishing,1,true
+508,s09,streaming subscription payment failed,خدمة البث: فشل تجديد اشتراكك. حدّث وسيلة الدفع لمتابعة المشاهدة: hxxps://secure.account-check[.]co/id,ar,sms,smishing,1,true
+509,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://go.verify-example[.]link/verify,ar,sms,smishing,1,true
+510,s12,bank card blocked for suspicious activity,بنك الوفاء: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxp://my.verify-example[.]tld/id,ar,sms,smishing,1,true
+511,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://gov-service[.]co/id,ar,sms,smishing,1,true
+512,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://customer-verify[.]web/verify,ar,sms,smishing,1,true
+513,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxps://portal.safe-verify[.]xyz/go,ar,sms,smishing,1,true
+514,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://portal.auth-check[.]tld,ar,sms,smishing,1,true
+515,s07,unpaid invoice from a supplier,مؤسسة التوريدات: فاتورة ID71699 غير مدفوعة بقيمة 15 ريال. ادفع الآن: hxxps://portal.delivery-x[.]tld/id,ar,sms,smishing,1,true
+516,s13,shared cloud document needs sign-in,سحابة المستندات: دعوة لعرض ملف مشترك. سجّل دخولك خلال 2 ساعة: hxxp://login.id-confirm[.]info/x,ar,sms,smishing,1,true
+517,s08,HR document requires re-authentication,TX98438: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://cloud-docs[.]link/verify,ar,sms,smishing,1,true
+518,s16,job offer requiring an upfront processing fee,شركة آفاق: تم قبولك لوظيفة. ادفع رسوم المعالجة 12.50 دولار للتعيين: hxxps://auth-check[.]link/x,ar,sms,smishing,1,true
+519,s16,job offer requiring an upfront processing fee,INV33995: تم اختيارك مبدئياً. ادفع رسوم التأمين لحجز مقعدك: hxxps://my.auth-check[.]info/id,ar,sms,smishing,1,true
+520,s07,unpaid invoice from a supplier,مؤسسة التوريدات: يرجى تسوية المبلغ المستحق 120 ريال عبر: hxxp://go.my-account[.]web/id,ar,sms,smishing,1,true
+521,s14,"utility bill overdue, disconnection warning",شركة الغاز: فاتورتك متأخرة 75 ريال. ادفع لتجنب قطع الخدمة: hxxps://go.reactivate[.]info/x,ar,sms,smishing,1,true
+522,s06,"IT department password expiry, reset now",PN32296: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://go.my-account[.]xyz/verify,ar,sms,smishing,1,true
+523,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 12.50 درهم رسوم الملف لإتمام التوظيف: hxxps://login.billing-x[.]link/x,ar,sms,smishing,1,true
+524,s03,"tax authority refund, confirm bank details",هيئة الضرائب: لديك مبلغ مسترد 45 دينار. أكد حسابك البنكي لاستلامه: hxxp://go.reset-access[.]vip/x,ar,sms,smishing,1,true
+525,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxps://my.reactivate[.]xyz/go,ar,sms,smishing,1,true
+526,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://portal.id-confirm[.]web/x,ar,sms,smishing,1,true
+527,s15,charity donation urgent appeal,ساهم بمبلغ 45 دينار في حملة مبادرة العطاء الطارئة: hxxp://login.cloud-docs[.]link,ar,sms,smishing,1,true
+528,s14,"utility bill overdue, disconnection warning",تنبيه TX41651: تأخر في السداد. تفادى الفصل بالدفع: hxxp://my.account-check[.]online,ar,sms,smishing,1,true
+529,s04,"email/account storage full, re-login to keep account",ID61820: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxp://login.account-check[.]tld/x,ar,sms,smishing,1,true
+530,s11,government benefit / social security update,إجراء مطلوب: حدّث معلوماتك خلال 2 ساعة لاستلام المنافع: hxxp://my-account[.]tld/ar,ar,sms,smishing,1,true
+531,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 120 درهم متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxp://gov-service[.]web,ar,sms,smishing,1,true
+532,s04,"email/account storage full, re-login to keep account",بريدك ممتلئ 100%. أعد تسجيل الدخول للحفاظ على حسابك: hxxps://login.cloud-docs[.]vip,ar,sms,smishing,1,true
+533,s08,HR document requires re-authentication,الموارد البشرية: مستند يخصّك يتطلب إعادة تحقق. سجّل الدخول: hxxp://portal.reactivate[.]link/x,ar,sms,smishing,1,true
+534,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 12 ساعة عبر hxxp://my.auth-check[.]vip,ar,sms,smishing,1,true
+535,s08,HR document requires re-authentication,وثيقة موظف بانتظار مراجعتك (PN99195). أعد المصادقة للاطلاع: hxxp://secure.id-confirm[.]info,ar,sms,smishing,1,true
+536,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 9.99 دينار رسوم الملف لإتمام التوظيف: hxxps://login.gov-service[.]web,ar,sms,smishing,1,true
+537,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxps://secure.hr-portal[.]site/x,ar,sms,smishing,1,true
+538,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxp://secure.gov-service[.]info,ar,sms,smishing,1,true
+539,s02,"package held by customs, pay a small fee",الجمارك: طردك محتجز. ادفع رسوماً بسيطة 120 ريال للإفراج: hxxps://secure.safe-verify[.]tld/x,ar,sms,smishing,1,true
+540,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (INV73390). أكد بياناتك لاستلامها: hxxps://my.pay-fee[.]xyz/id,ar,sms,smishing,1,true
+541,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://safe-verify[.]link/go,ar,sms,smishing,1,true
+542,s03,"tax authority refund, confirm bank details",استرداد ضريبي REF61792 بانتظارك. أدخل بياناتك خلال 48 ساعة: hxxp://portal.portal-signin[.]vip/go,ar,sms,smishing,1,true
+543,s16,job offer requiring an upfront processing fee,تهانينا! قبول مبدئي. ادفع 75 ريال رسوم الملف لإتمام التوظيف: hxxp://login.reactivate[.]site/x,ar,sms,smishing,1,true
+544,s14,"utility bill overdue, disconnection warning",تنبيه TN45752: تأخر في السداد. تفادى الفصل بالدفع: hxxps://account-check[.]tld/id,ar,sms,smishing,1,true
+545,s03,"tax authority refund, confirm bank details",مصلحة الضرائب: لديك مبلغ مسترد 45 دينار. أكد حسابك البنكي لاستلامه: hxxp://go.reset-access[.]site,ar,sms,smishing,1,true
+546,s13,shared cloud document needs sign-in,لديك ملف بانتظار المراجعة (TN53016). أكد هويتك لفتحه: hxxp://go.customer-verify[.]info/x,ar,sms,smishing,1,true
+547,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 48 ساعة عبر hxxps://portal.reset-access[.]site/go,ar,sms,smishing,1,true
+548,s08,HR document requires re-authentication,TN76428: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://login.secure-login[.]online,ar,sms,smishing,1,true
+549,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://login.update-info[.]site/verify,ar,sms,smishing,1,true
+550,s07,unpaid invoice from a supplier,شركة الحلول: يرجى تسوية المبلغ المستحق 45 درهم عبر: hxxp://portal.account-check[.]site/x,ar,sms,smishing,1,true
+551,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxp://auth-check[.]web/ar,ar,sms,smishing,1,true
+552,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (INV7517). أكد بياناتك لاستلامها: hxxps://go.reactivate[.]vip,ar,sms,smishing,1,true
+553,s15,charity donation urgent appeal,جمعية الرحمة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxps://login.customer-verify[.]tld/x,ar,sms,smishing,1,true
+554,s12,bank card blocked for suspicious activity,بنك الوفاء: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxps://verify-example[.]site/go,ar,sms,smishing,1,true
+555,s09,streaming subscription payment failed,تعذّر خصم 15 درهم. حدّث بطاقتك خلال 2 ساعة لتجنب التعليق: hxxp://go.account-check[.]online/verify,ar,sms,smishing,1,true
+556,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://my.customer-verify[.]link/x,ar,sms,smishing,1,true
+557,s15,charity donation urgent appeal,نناشدك المساهمة قبل انتهاء الحملة. تبرّع الآن: hxxp://login.auth-check[.]vip/ar,ar,sms,smishing,1,true
+558,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 12 ساعة: hxxps://secure.update-info[.]site/go,ar,sms,smishing,1,true
+559,s02,"package held by customs, pay a small fee",إشعار جمركي PN81178: طردك جاهز بعد دفع 45 دولار. اضغط: hxxp://secure.cloud-docs[.]tld/ar,ar,sms,smishing,1,true
+560,s18,"login from a new device, confirm it was you",لحماية حسابك أكد هويتك بعد دخول من جهاز غير معروف: hxxps://login.reset-access[.]co,ar,sms,smishing,1,true
+561,s14,"utility bill overdue, disconnection warning",تنبيه REF74949: تأخر في السداد. تفادى الفصل بالدفع: hxxps://portal.reactivate[.]online/go,ar,sms,smishing,1,true
+562,s09,streaming subscription payment failed,اشتراكك PN40587 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://portal.reactivate[.]xyz,ar,sms,smishing,1,true
+563,s16,job offer requiring an upfront processing fee,مجموعة المستقبل: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxps://update-info[.]online/id,ar,sms,smishing,1,true
+564,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxp://gov-service[.]xyz/id,ar,sms,smishing,1,true
+565,s08,HR document requires re-authentication,ID93426: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxps://secure.portal-signin[.]tld/x,ar,sms,smishing,1,true
+566,s16,job offer requiring an upfront processing fee,شركة آفاق: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxp://portal.verify-example[.]online/x,ar,sms,smishing,1,true
+567,s10,shipping company delivery reschedule link,خدمة التوصيل: لإتمام توصيل طردك أكد التفاصيل وادفع 75 ريال: hxxp://delivery-x[.]tld/ar,ar,sms,smishing,1,true
+568,s10,shipping company delivery reschedule link,شحنتك PN54327 بانتظار تأكيد العنوان. حدد الموعد خلال 24 ساعة: hxxps://my.portal-signin[.]vip/ar,ar,sms,smishing,1,true
+569,s15,charity donation urgent appeal,صندوق الإغاثة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxps://secure.safe-verify[.]xyz/ar,ar,sms,smishing,1,true
+570,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxps://login.auth-check[.]xyz,ar,sms,smishing,1,true
+571,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر الدرايف السحابي. سجّل الدخول لعرضه: hxxp://login.reactivate[.]site/x,ar,sms,smishing,1,true
+572,s04,"email/account storage full, re-login to keep account",TN71807: ترقية مطلوبة لمساحة بريدك. سجّل الدخول: hxxps://portal.claim-now[.]tld/ar,ar,sms,smishing,1,true
+573,s04,"email/account storage full, re-login to keep account",تحذير: مساحة حساب البريد انتهت. سجّل الدخول خلال 72 ساعة: hxxp://delivery-x[.]xyz/go,ar,sms,smishing,1,true
+574,s10,shipping company delivery reschedule link,شحنتك TX32254 بانتظار تأكيد العنوان. حدد الموعد خلال 2 ساعة: hxxps://my.auth-check[.]info/x,ar,sms,smishing,1,true
+575,s06,"IT department password expiry, reset now",INV75153: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxps://portal.pay-fee[.]site/go,ar,sms,smishing,1,true
+576,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxps://pay-fee[.]web/ar,ar,sms,smishing,1,true
+577,s03,"tax authority refund, confirm bank details",مصلحة الضرائب: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://portal.update-info[.]co/ar,ar,sms,smishing,1,true
+578,s03,"tax authority refund, confirm bank details",هيئة الضرائب: لديك مبلغ مسترد 15 ريال. أكد حسابك البنكي لاستلامه: hxxps://login.billing-x[.]xyz/go,ar,sms,smishing,1,true
+579,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://secure.claim-now[.]tld/x,ar,sms,smishing,1,true
+580,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 5 درهم متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxp://portal.confirm-id[.]info/x,ar,sms,smishing,1,true
+581,s13,shared cloud document needs sign-in,لديك ملف بانتظار المراجعة (TX40749). أكد هويتك لفتحه: hxxp://customer-verify[.]info,ar,sms,smishing,1,true
+582,s12,bank card blocked for suspicious activity,تنبيه أمني PN87131: بطاقتك موقوفة. أعد تفعيلها خلال 72 ساعة: hxxp://login.billing-x[.]xyz,ar,sms,smishing,1,true
+583,s10,shipping company delivery reschedule link,بريد الطرود: لإتمام توصيل طردك أكد التفاصيل وادفع 9.99 دولار: hxxp://my.billing-x[.]co/ar,ar,sms,smishing,1,true
+584,s12,bank card blocked for suspicious activity,بنك الوفاء: تم حظر بطاقتك لنشاط مشبوه. أكد هويتك لإلغاء الحظر: hxxps://login.reset-access[.]site/go,ar,sms,smishing,1,true
+585,s11,government benefit / social security update,هيئة المنافع: حدّث بياناتك لمواصلة صرف الإعانة: hxxp://portal.claim-now[.]link/id,ar,sms,smishing,1,true
+586,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxp://go.customer-verify[.]xyz/go,ar,sms,smishing,1,true
+587,s05,"prize/lottery win, claim within 24h",مبروك! فزت في الجائزة الكبرى. اطلب جائزتك خلال 24 ساعة: hxxp://update-info[.]co/ar,ar,sms,smishing,1,true
+588,s06,"IT department password expiry, reset now",INV11383: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://login.billing-x[.]online/id,ar,sms,smishing,1,true
+589,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://login.gov-service[.]site/x,ar,sms,smishing,1,true
+590,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxps://login.claim-now[.]web,ar,sms,smishing,1,true
+591,s05,"prize/lottery win, claim within 24h",مبروك! فزت في السحب الوطني. اطلب جائزتك خلال 12 ساعة: hxxp://portal-signin[.]link/id,ar,sms,smishing,1,true
+592,s01,"bank account suspended, verify identity",مصرف الاتحاد: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxp://login.id-confirm[.]info/x,ar,sms,smishing,1,true
+593,s05,"prize/lottery win, claim within 24h",تم اختيارك للفوز بجائزة كبرى. احصل عليها قبل انتهاء المهلة: hxxp://secure.update-info[.]co/x,ar,sms,smishing,1,true
+594,s07,unpaid invoice from a supplier,فاتورتكم INV17576 تجاوزت موعد الاستحقاق. ادفعوا خلال 6 ساعة: hxxps://portal.customer-verify[.]link,ar,sms,smishing,1,true
+595,s02,"package held by customs, pay a small fee",إدارة الجمارك: رسوم مستحقة على شحنتك. سدّد 30 ريال لتجنب إرجاع الطرد: hxxp://secure.auth-check[.]link/id,ar,sms,smishing,1,true
+596,s06,"IT department password expiry, reset now",قسم تقنية المعلومات: يجب تحديث بيانات دخولك فوراً. اضغط: hxxp://secure.id-confirm[.]co/verify,ar,sms,smishing,1,true
+597,s07,unpaid invoice from a supplier,شركة الحلول: يرجى تسوية المبلغ المستحق 9.99 ريال عبر: hxxp://login.reactivate[.]xyz/ar,ar,sms,smishing,1,true
+598,s09,streaming subscription payment failed,خدمة البث: فشل تجديد اشتراكك. حدّث وسيلة الدفع لمتابعة المشاهدة: hxxps://claim-now[.]co/ar,ar,sms,smishing,1,true
+599,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxps://go.account-check[.]vip/id,ar,sms,smishing,1,true
+600,s10,shipping company delivery reschedule link,شحنتك PN80787 بانتظار تأكيد العنوان. حدد الموعد خلال 48 ساعة: hxxps://go.id-confirm[.]xyz,ar,sms,smishing,1,true
+601,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://portal.customer-verify[.]web/ar,ar,sms,smishing,1,true
+602,s08,HR document requires re-authentication,TX33717: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxp://secure.account-check[.]info/x,ar,sms,smishing,1,true
+603,s03,"tax authority refund, confirm bank details",استرداد ضريبي TX94973 بانتظارك. أدخل بياناتك خلال 6 ساعة: hxxps://portal.claim-now[.]online/x,ar,sms,smishing,1,true
+604,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (TX40353). أكد أنه أنت خلال 48 ساعة: hxxp://login.account-check[.]tld/verify,ar,sms,smishing,1,true
+605,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 24 ساعة: hxxps://portal.portal-signin[.]info/go,ar,sms,smishing,1,true
+606,s07,unpaid invoice from a supplier,شركة الإمداد: يرجى تسوية المبلغ المستحق 25 دينار عبر: hxxps://secure.reactivate[.]info/x,ar,sms,smishing,1,true
+607,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxps://portal.portal-signin[.]co/ar,ar,sms,smishing,1,true
+608,s11,government benefit / social security update,الضمان الاجتماعي: حدّث بياناتك لمواصلة صرف الإعانة: hxxps://reactivate[.]info/verify,ar,sms,smishing,1,true
+609,s04,"email/account storage full, re-login to keep account",تحذير: مساحة حساب البريد انتهت. سجّل الدخول خلال 24 ساعة: hxxp://go.billing-x[.]link/x,ar,sms,smishing,1,true
+610,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxps://portal.update-info[.]co/x,ar,sms,smishing,1,true
+611,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxps://secure.my-account[.]info/ar,ar,sms,smishing,1,true
+612,s02,"package held by customs, pay a small fee",إشعار جمركي PN86815: طردك جاهز بعد دفع 5 دولار. اضغط: hxxps://go.my-account[.]online/x,ar,sms,smishing,1,true
+613,s12,bank card blocked for suspicious activity,تنبيه أمني REF57130: بطاقتك موقوفة. أعد تفعيلها خلال 72 ساعة: hxxps://portal.update-info[.]web/id,ar,sms,smishing,1,true
+614,s04,"email/account storage full, re-login to keep account",بريدك ممتلئ 100%. أعد تسجيل الدخول للحفاظ على حسابك: hxxps://go.verify-example[.]vip/ar,ar,sms,smishing,1,true
+615,s10,shipping company delivery reschedule link,بريد الطرود: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxps://go.verify-example[.]tld/ar,ar,sms,smishing,1,true
+616,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxps://portal.hr-portal[.]co/ar,ar,sms,smishing,1,true
+617,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (REF41808). أكد أنه أنت خلال 6 ساعة: hxxps://go.reset-access[.]xyz/x,ar,sms,smishing,1,true
+618,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxps://portal.claim-now[.]tld/ar,ar,sms,smishing,1,true
+619,s02,"package held by customs, pay a small fee",شحنتك REF41621 بانتظار رسوم تخليص 9.99 دينار. ادفع خلال 72 ساعة: hxxps://go.auth-check[.]link/x,ar,sms,smishing,1,true
+620,s11,government benefit / social security update,وزارة التضامن: بياناتك غير محدثة. حدّثها لتجنب إيقاف المنفعة: hxxps://secure.billing-x[.]vip/go,ar,sms,smishing,1,true
+621,s10,shipping company delivery reschedule link,شحنتك REF52919 بانتظار تأكيد العنوان. حدد الموعد خلال 72 ساعة: hxxps://portal.my-account[.]co/verify,ar,sms,smishing,1,true
+622,s14,"utility bill overdue, disconnection warning",تنبيه TN24105: تأخر في السداد. تفادى الفصل بالدفع: hxxp://login.delivery-x[.]web,ar,sms,smishing,1,true
+623,s09,streaming subscription payment failed,منصة المشاهدة: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxp://secure.cloud-docs[.]link/verify,ar,sms,smishing,1,true
+624,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxps://login.customer-verify[.]link/x,ar,sms,smishing,1,true
+625,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: لديك مبلغ مسترد 30 ريال. أكد حسابك البنكي لاستلامه: hxxp://safe-verify[.]vip/x,ar,sms,smishing,1,true
+626,s14,"utility bill overdue, disconnection warning",إنذار أخير: سيتم فصل الخدمة خلال 2 ساعة. ادفع الآن: hxxp://secure.reset-access[.]web/go,ar,sms,smishing,1,true
+627,s13,shared cloud document needs sign-in,تمت مشاركة مستند معك عبر سحابة المستندات. سجّل الدخول لعرضه: hxxps://secure.verify-example[.]tld/x,ar,sms,smishing,1,true
+628,s13,shared cloud document needs sign-in,الدرايف السحابي: دعوة لعرض ملف مشترك. سجّل دخولك خلال 72 ساعة: hxxps://go.delivery-x[.]link/go,ar,sms,smishing,1,true
+629,s09,streaming subscription payment failed,اشتراكك PN62060 معلّق لمشكلة في الدفع. أعد تفعيله: hxxp://my.id-confirm[.]web/x,ar,sms,smishing,1,true
+630,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxps://go.customer-verify[.]xyz/x,ar,sms,smishing,1,true
+631,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: فاتورتك متأخرة 120 دولار. ادفع لتجنب قطع الخدمة: hxxps://my.account-check[.]info,ar,sms,smishing,1,true
+632,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxp://portal.verify-example[.]link/verify,ar,sms,smishing,1,true
+633,s03,"tax authority refund, confirm bank details",هيئة الضرائب: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxps://my.id-confirm[.]tld/id,ar,sms,smishing,1,true
+634,s11,government benefit / social security update,هيئة المنافع: حدّث بياناتك لمواصلة صرف الإعانة: hxxps://portal.billing-x[.]tld/ar,ar,sms,smishing,1,true
+635,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxp://login.auth-check[.]info,ar,sms,smishing,1,true
+636,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxps://secure.gov-service[.]site,ar,sms,smishing,1,true
+637,s06,"IT department password expiry, reset now",تنبيه: حسابك سيُعلّق ما لم تحدّث كلمة المرور: hxxp://portal.delivery-x[.]web/id,ar,sms,smishing,1,true
+638,s02,"package held by customs, pay a small fee",لا يمكن تسليم طردك دون دفع الرسوم الجمركية. أتمم الدفع: hxxps://safe-verify[.]vip/ar,ar,sms,smishing,1,true
+639,s09,streaming subscription payment failed,اشتراكك REF11241 معلّق لمشكلة في الدفع. أعد تفعيله: hxxps://login.gov-service[.]co/go,ar,sms,smishing,1,true
+640,s06,"IT department password expiry, reset now",TN42626: كلمة مرورك منتهية الصلاحية. حدّثها الآن: hxxp://secure.claim-now[.]site/verify,ar,sms,smishing,1,true
+641,s16,job offer requiring an upfront processing fee,عرض عمل براتب مجزٍ بانتظارك. أكمل التعيين خلال 6 ساعة: hxxps://my.hr-portal[.]info/id,ar,sms,smishing,1,true
+642,s10,shipping company delivery reschedule link,لم يجدك السائق. أعد تحديد موعد التسليم عبر: hxxp://go.billing-x[.]web/x,ar,sms,smishing,1,true
+643,s15,charity donation urgent appeal,جمعية الرحمة: نداء عاجل لإغاثة المتضررين. تبرّع الآن: hxxps://my.account-check[.]online/ar,ar,sms,smishing,1,true
+644,s10,shipping company delivery reschedule link,شحنتك ID63912 بانتظار تأكيد العنوان. حدد الموعد خلال 12 ساعة: hxxp://login.account-check[.]web/id,ar,sms,smishing,1,true
+645,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxps://go.account-check[.]tld/verify,ar,sms,smishing,1,true
+646,s18,"login from a new device, confirm it was you",تنبيه أمني: محاولة وصول من موقع جديد. تحقق الآن: hxxps://go.confirm-id[.]vip/ar,ar,sms,smishing,1,true
+647,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (PN95911). أكد أنه أنت خلال 24 ساعة: hxxp://secure.update-info[.]link/ar,ar,sms,smishing,1,true
+648,s09,streaming subscription payment failed,تعذّر خصم 120 درهم. حدّث بطاقتك خلال 48 ساعة لتجنب التعليق: hxxps://secure.verify-example[.]tld,ar,sms,smishing,1,true
+649,s04,"email/account storage full, re-login to keep account",تحذير: مساحة حساب البريد انتهت. سجّل الدخول خلال 48 ساعة: hxxps://secure.id-confirm[.]vip/ar,ar,sms,smishing,1,true
+650,s08,HR document requires re-authentication,شؤون الموظفين: لأسباب أمنية أكد دخولك لفتح المستند: hxxps://secure.account-check[.]xyz/x,ar,sms,smishing,1,true
+651,s16,job offer requiring an upfront processing fee,شركة الرؤية: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxp://pay-fee[.]co/verify,ar,sms,smishing,1,true
+652,s06,"IT department password expiry, reset now",فريق الأمن التقني: كلمة مرورك تنتهي خلال 6 ساعة. أعد تعيينها الآن: hxxps://secure.cloud-docs[.]link/go,ar,sms,smishing,1,true
+653,s14,"utility bill overdue, disconnection warning",تنبيه REF54709: تأخر في السداد. تفادى الفصل بالدفع: hxxps://go.id-confirm[.]online,ar,sms,smishing,1,true
+654,s13,shared cloud document needs sign-in,ID93112: ملف بانتظارك على الدرايف السحابي. اضغط للدخول: hxxp://login.reset-access[.]web/verify,ar,sms,smishing,1,true
+655,s18,"login from a new device, confirm it was you",هل كان هذا أنت؟ دخول جديد لحسابك. أكد هويتك: hxxp://portal.reset-access[.]web,ar,sms,smishing,1,true
+656,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://my.id-confirm[.]vip/ar,ar,sms,smishing,1,true
+657,s14,"utility bill overdue, disconnection warning",فاتورتكم متأخرة ومعرضة للقطع. سوّوا المبلغ فوراً: hxxps://portal.confirm-id[.]info/ar,ar,sms,smishing,1,true
+658,s09,streaming subscription payment failed,خدمة البث: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxps://go.secure-login[.]vip/go,ar,sms,smishing,1,true
+659,s13,shared cloud document needs sign-in,منصة الملفات: دعوة لعرض ملف مشترك. سجّل دخولك خلال 12 ساعة: hxxps://portal.hr-portal[.]tld,ar,sms,smishing,1,true
+660,s04,"email/account storage full, re-login to keep account",سيتوقف استقبال رسائلك قريباً. أعد تفعيل الحساب عبر: hxxps://billing-x[.]co/x,ar,sms,smishing,1,true
+661,s14,"utility bill overdue, disconnection warning",شركة الكهرباء: فاتورتك متأخرة 15 دينار. ادفع لتجنب قطع الخدمة: hxxps://cloud-docs[.]tld/x,ar,sms,smishing,1,true
+662,s09,streaming subscription payment failed,تعذّر خصم 120 درهم. حدّث بطاقتك خلال 2 ساعة لتجنب التعليق: hxxp://login.my-account[.]link/ar,ar,sms,smishing,1,true
+663,s04,"email/account storage full, re-login to keep account",سيتوقف استقبال رسائلك قريباً. أعد تفعيل الحساب عبر: hxxps://my.id-confirm[.]info/verify,ar,sms,smishing,1,true
+664,s06,"IT department password expiry, reset now",الدعم التقني: يجب تحديث بيانات دخولك فوراً. اضغط: hxxp://secure.verify-example[.]web/go,ar,sms,smishing,1,true
+665,s15,charity donation urgent appeal,جمعية الرحمة: حملة تبرعات طارئة (INV5995). ساهم عبر: hxxps://portal.customer-verify[.]xyz/x,ar,sms,smishing,1,true
+666,s17,two-factor code confirmation request,طلب تأكيد PN79893: أكد رمز الدخول لمرة واحدة عبر: hxxps://secure.gov-service[.]info/x,ar,sms,smishing,1,true
+667,s02,"package held by customs, pay a small fee",إشعار جمركي PN93324: طردك جاهز بعد دفع 5 درهم. اضغط: hxxp://secure.account-check[.]site/go,ar,sms,smishing,1,true
+668,s17,two-factor code confirmation request,لإتمام التحقق، أدخل رمز المصادقة الثنائية عبر الصفحة الآمنة: hxxp://portal.reset-access[.]online/verify,ar,sms,smishing,1,true
+669,s17,two-factor code confirmation request,طلب تأكيد PN51345: أكد رمز الدخول لمرة واحدة عبر: hxxp://my.my-account[.]tld,ar,sms,smishing,1,true
+670,s07,unpaid invoice from a supplier,شركة الإمداد: فاتورة TX34254 غير مدفوعة بقيمة 15 دينار. ادفع الآن: hxxp://gov-service[.]tld/verify,ar,sms,smishing,1,true
+671,s01,"bank account suspended, verify identity",بنك السلام: حسابك بحاجة لتأكيد فوري وإلا سيُغلق. تحقق: hxxps://go.customer-verify[.]vip/x,ar,sms,smishing,1,true
+672,s14,"utility bill overdue, disconnection warning",مؤسسة المياه: مستحقات 12.50 درهم واجبة الدفع. سدّد عبر: hxxp://claim-now[.]info,ar,sms,smishing,1,true
+673,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (PN30697). أكد أنه أنت خلال 72 ساعة: hxxps://my.auth-check[.]vip/x,ar,sms,smishing,1,true
+674,s10,shipping company delivery reschedule link,شحنتك INV14531 بانتظار تأكيد العنوان. حدد الموعد خلال 6 ساعة: hxxps://portal.hr-portal[.]tld/go,ar,sms,smishing,1,true
+675,s01,"bank account suspended, verify identity",مرجع TX61138: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxps://login.id-confirm[.]xyz,ar,sms,smishing,1,true
+676,s08,HR document requires re-authentication,مستند موارد بشرية سري بحاجة توقيعك خلال 12 ساعة: hxxps://secure.reset-access[.]co/x,ar,sms,smishing,1,true
+677,s16,job offer requiring an upfront processing fee,مجموعة المستقبل: وظيفة شاغرة لك. أكمل الدفع المسبق لبدء العمل: hxxp://secure.hr-portal[.]web/go,ar,sms,smishing,1,true
+678,s06,"IT department password expiry, reset now",قسم تقنية المعلومات: كلمة مرورك تنتهي خلال 24 ساعة. أعد تعيينها الآن: hxxp://portal.hr-portal[.]link/x,ar,sms,smishing,1,true
+679,s01,"bank account suspended, verify identity",تنبيه أمني: حسابك موقوف. أعد تفعيله خلال 72 ساعة عبر hxxp://reset-access[.]vip/x,ar,sms,smishing,1,true
+680,s12,bank card blocked for suspicious activity,بطاقتك محظورة مؤقتاً لحمايتك. أكد عملياتك الأخيرة: hxxps://secure.pay-fee[.]link/go,ar,sms,smishing,1,true
+681,s11,government benefit / social security update,دعم حكومي 30 درهم بانتظارك. أكد بياناتك للاستلام: hxxp://confirm-id[.]xyz,ar,sms,smishing,1,true
+682,s05,"prize/lottery win, claim within 24h",تهانينا! مبلغ 120 دينار بانتظارك. اطلبه خلال 24 ساعة: hxxps://login.customer-verify[.]xyz/ar,ar,sms,smishing,1,true
+683,s12,bank card blocked for suspicious activity,البنك الرقمي: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://account-check[.]online/verify,ar,sms,smishing,1,true
+684,s07,unpaid invoice from a supplier,مؤسسة التوريدات: يرجى تسوية المبلغ المستحق 45 دينار عبر: hxxp://my.pay-fee[.]web/ar,ar,sms,smishing,1,true
+685,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 2 دقيقة: hxxps://login.safe-verify[.]online,ar,sms,smishing,1,true
+686,s07,unpaid invoice from a supplier,شركة الإمداد: فاتورة INV46981 غير مدفوعة بقيمة 5 ريال. ادفع الآن: hxxp://secure.update-info[.]info/id,ar,sms,smishing,1,true
+687,s11,government benefit / social security update,دعم حكومي 12.50 دولار بانتظارك. أكد بياناتك للاستلام: hxxp://secure.id-confirm[.]link/id,ar,sms,smishing,1,true
+688,s18,"login from a new device, confirm it was you",تسجيل دخول غير معتاد (TN62693). أكد أنه أنت خلال 2 ساعة: hxxp://verify-example[.]link/id,ar,sms,smishing,1,true
+689,s03,"tax authority refund, confirm bank details",أنت مستحق لاسترداد 25 درهم. أكد بياناتك البنكية لتحويل المبلغ: hxxps://gov-service[.]web/id,ar,sms,smishing,1,true
+690,s04,"email/account storage full, re-login to keep account",سيتوقف استقبال رسائلك قريباً. أعد تفعيل الحساب عبر: hxxp://my.account-check[.]vip/go,ar,sms,smishing,1,true
+691,s13,shared cloud document needs sign-in,ID36342: ملف بانتظارك على منصة الملفات. اضغط للدخول: hxxp://go.billing-x[.]online/go,ar,sms,smishing,1,true
+692,s01,"bank account suspended, verify identity",بنك الأمانة: تم تعليق حسابك مؤقتاً. تحقق من هويتك الآن: hxxp://my.reactivate[.]link,ar,sms,smishing,1,true
+693,s05,"prize/lottery win, claim within 24h",رقمك فاز بجائزة نقدية (ID51611). أكد بياناتك لاستلامها: hxxp://secure.account-check[.]co,ar,sms,smishing,1,true
+694,s07,unpaid invoice from a supplier,إشعار دفع: لديكم فاتورة معلقة. راجعوها وأتموا الدفع: hxxp://login.account-check[.]site/x,ar,sms,smishing,1,true
+695,s16,job offer requiring an upfront processing fee,شركة الرؤية: تم قبولك لوظيفة. ادفع رسوم المعالجة 30 دولار للتعيين: hxxps://login.gov-service[.]online/id,ar,sms,smishing,1,true
+696,s18,"login from a new device, confirm it was you",رصدنا دخولاً من جهاز جديد. إن لم تكن أنت، أمّن حسابك فوراً: hxxps://secure.account-check[.]web/x,ar,sms,smishing,1,true
+697,s05,"prize/lottery win, claim within 24h",السحب الوطني: جائزتك بانتظارك! اضغط لتحصيلها الآن: hxxp://my.pay-fee[.]web/ar,ar,sms,smishing,1,true
+698,s01,"bank account suspended, verify identity",مرجع TX13394: تعليق مؤقت لحسابك. اضغط للتحقق من الهوية: hxxp://login.portal-signin[.]tld/x,ar,sms,smishing,1,true
+699,s03,"tax authority refund, confirm bank details",إدارة الإيرادات: مبلغك المسترد جاهز. أكمل تأكيد الحساب: hxxp://my.hr-portal[.]vip,ar,sms,smishing,1,true
+700,s13,shared cloud document needs sign-in,مستند سري تمت مشاركته معك. أدخل بياناتك للوصول: hxxp://account-check[.]site/id,ar,sms,smishing,1,true
+701,s07,unpaid invoice from a supplier,تذكير: مستحقاتكم 75 ريال متأخرة. سوّوا الفاتورة لتجنب غرامة: hxxp://portal.billing-x[.]tld,ar,sms,smishing,1,true
+702,s17,two-factor code confirmation request,تأكيد أمني: أدخل رمز التحقق المكوّن من 6 أرقام عبر: hxxps://secure.verify-example[.]web/verify,ar,sms,smishing,1,true
+703,s15,charity donation urgent appeal,كل دقيقة تهم. تبرّع الآن لدعم جهود الإغاثة: hxxp://go.hr-portal[.]co/x,ar,sms,smishing,1,true
+704,s02,"package held by customs, pay a small fee",الجمارك: رسوم مستحقة على شحنتك. سدّد 120 ريال لتجنب إرجاع الطرد: hxxps://my.reactivate[.]web,ar,sms,smishing,1,true
+705,s07,unpaid invoice from a supplier,مؤسسة التوريدات: فاتورة TN52653 غير مدفوعة بقيمة 30 دولار. ادفع الآن: hxxp://go.verify-example[.]co/id,ar,sms,smishing,1,true
+706,s12,bank card blocked for suspicious activity,بنك السلام: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxps://my.reactivate[.]co/go,ar,sms,smishing,1,true
+707,s17,two-factor code confirmation request,رصدنا محاولة دخول. أدخل رمز التحقق خلال 72 دقيقة: hxxps://login.portal-signin[.]site/id,ar,sms,smishing,1,true
+708,s06,"IT department password expiry, reset now",الدعم التقني: كلمة مرورك تنتهي خلال 2 ساعة. أعد تعيينها الآن: hxxps://portal.hr-portal[.]link,ar,sms,smishing,1,true
+709,s09,streaming subscription payment failed,تنبيه: سيتم إيقاف خدمتك بسبب فشل الدفع. حدّث الآن: hxxps://login.billing-x[.]co/x,ar,sms,smishing,1,true
+710,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxp://secure.secure-login[.]xyz/verify,ar,sms,smishing,1,true
+711,s08,HR document requires re-authentication,REF97036: مطلوب إعادة توثيق لعرض وثيقتك الإدارية: hxxps://secure.gov-service[.]link/x,ar,sms,smishing,1,true
+712,s09,streaming subscription payment failed,باقة الأفلام: مشكلة في الدفع. أدخل بيانات بطاقتك للمتابعة: hxxp://login.safe-verify[.]online/ar,ar,sms,smishing,1,true
+713,s16,job offer requiring an upfront processing fee,مجموعة المستقبل: تم قبولك لوظيفة. ادفع رسوم المعالجة 12.50 درهم للتعيين: hxxps://secure.confirm-id[.]co/go,ar,sms,smishing,1,true
+714,s04,"email/account storage full, re-login to keep account",حسابك سيُعلّق لامتلاء المساحة. أكد بياناتك الآن: hxxp://go.my-account[.]info,ar,sms,smishing,1,true
+715,s10,shipping company delivery reschedule link,شركة الشحن: تعذّر تسليم طردك. أعد جدولة التوصيل: hxxps://portal.account-check[.]link,ar,sms,smishing,1,true
+716,s13,shared cloud document needs sign-in,سحابة المستندات: دعوة لعرض ملف مشترك. سجّل دخولك خلال 2 ساعة: hxxp://confirm-id[.]site/verify,ar,sms,smishing,1,true
+717,s01,"bank account suspended, verify identity",رصدنا نشاطاً غير معتاد. أكد بياناتك لإلغاء التعليق: hxxps://billing-x[.]web/x,ar,sms,smishing,1,true
+718,s12,bank card blocked for suspicious activity,محاولة شراء 45 درهم على بطاقتك. أكد أو ارفض العملية: hxxp://pay-fee[.]vip/go,ar,sms,smishing,1,true
+719,s09,streaming subscription payment failed,اشتراكك PN81812 معلّق لمشكلة في الدفع. أعد تفعيله: hxxps://portal.my-account[.]site,ar,sms,smishing,1,true
+720,s12,bank card blocked for suspicious activity,بنك الأمانة: رصدنا عمليات غير معتادة. ثبّت بياناتك الآن: hxxp://login.account-check[.]xyz/x,ar,sms,smishing,1,true

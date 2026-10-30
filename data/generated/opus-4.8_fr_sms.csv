@@ -1,0 +1,721 @@
+id,scenario_id,scenario_desc,message,language,channel,label,label_int,synthetic
+1,s08,HR document requires re-authentication,Important : RH : un document vous attend. Ré-authentifiez-vous : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+2,s09,streaming subscription payment failed,INFO : Facturation échouée. Actualisez vos infos : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+3,s07,unpaid invoice from a supplier,Facture impayée. Merci de régulariser rapidement : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+4,s16,job offer requiring an upfront processing fee,Rappel : Poste confirmé ! Finalisez avec les frais de traitement : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+5,s03,"tax authority refund, confirm bank details",Rappel : Votre remboursement de 168€ attend validation : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+6,s11,government benefit / social security update,INFO : Régularisez votre situation pour vos prestations : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+7,s11,government benefit / social security update,Rappel : Mise à jour de vos droits sociaux requise : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+8,s09,streaming subscription payment failed,Notification : Nous n'avons pas pu vous prélever. Corrigez ici : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+9,s15,charity donation urgent appeal,"Notification : Ensemble, agissons vite. Faites un don : hxxp://service-exemple[.]tld",fr,sms,smishing,1,yes
+10,s16,job offer requiring an upfront processing fee,Notification : Embauche possible. Réglez les frais administratifs : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+11,s08,HR document requires re-authentication,Rappel : Votre bulletin est dispo. Confirmez votre accès : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+12,s04,"email/account storage full, re-login to keep account",Messagerie saturée. Reconnectez-vous sous 48h : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+13,s05,"prize/lottery win, claim within 24h",Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+14,s18,"login from a new device, confirm it was you",Activité inhabituelle. Sécurisez votre compte : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+15,s07,unpaid invoice from a supplier,Alerte : Relance : montant dû à régler sans délai hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+16,s10,shipping company delivery reschedule link,INFO : Nouvelle tentative requise. Planifiez la livraison : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+17,s06,"IT department password expiry, reset now",Alerte : Sécurité SI : mettez à jour votre mot de passe : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+18,s16,job offer requiring an upfront processing fee,Recrutement : dernière étape avec frais de traitement hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+19,s04,"email/account storage full, re-login to keep account",Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+20,s07,unpaid invoice from a supplier,Notification : Paiement non reçu. Téléchargez votre facture : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+21,s16,job offer requiring an upfront processing fee,"Important : Félicitations, poste à pourvoir. Finalisez ici : hxxp://lien-exemple[.]tld",fr,sms,smishing,1,yes
+22,s05,"prize/lottery win, claim within 24h",Gain exceptionnel à valider aujourd'hui : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+23,s04,"email/account storage full, re-login to keep account",Rappel : Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+24,s12,bank card blocked for suspicious activity,"Notification : Par précaution, votre carte est bloquée. Réactivez : hxxp://acces-exemple[.]tld",fr,sms,smishing,1,yes
+25,s02,"package held by customs, pay a small fee",Frais de dédouanement en attente. Payez pour recevoir votre colis hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+26,s11,government benefit / social security update,Notification : Vos droits expirent. Mettez à jour votre dossier hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+27,s09,streaming subscription payment failed,INFO : Votre accès sera coupé sous 24h. Réglez : hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+28,s10,shipping company delivery reschedule link,Remise impossible aujourd'hui. Reprogrammez : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+29,s17,two-factor code confirmation request,Important : Saisissez votre code de sécurité pour continuer : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+30,s10,shipping company delivery reschedule link,Rappel : Livraison échouée. Reprogrammez-la ici : hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+31,s18,"login from a new device, confirm it was you",Alerte sécurité : validez cette connexion : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+32,s05,"prize/lottery win, claim within 24h",Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+33,s02,"package held by customs, pay a small fee","Rappel : Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://lien-exemple[.]tld",fr,sms,smishing,1,yes
+34,s02,"package held by customs, pay a small fee","Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://service-exemple[.]tld",fr,sms,smishing,1,yes
+35,s11,government benefit / social security update,Mise à jour de vos droits sociaux requise : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+36,s02,"package held by customs, pay a small fee","Alerte : Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://portail-exemple[.]tld",fr,sms,smishing,1,yes
+37,s14,"utility bill overdue, disconnection warning",Alerte : Facture en retard. Maintenez votre service : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+38,s04,"email/account storage full, re-login to keep account",Notification : Action requise : votre stockage est plein. Connectez-vous hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+39,s17,two-factor code confirmation request,Important : Authentification en attente. Confirmez votre code : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+40,s09,streaming subscription payment failed,Votre abonnement va être suspendu. Régularisez : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+41,s11,government benefit / social security update,Prestations sociales : vérification obligatoire ce mois hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+42,s01,"bank account suspended, verify identity",Votre compte bancaire a été suspendu. Vérifiez votre identité : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+43,s06,"IT department password expiry, reset now",Rappel : Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+44,s17,two-factor code confirmation request,Un code vous a été envoyé. Validez-le : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+45,s07,unpaid invoice from a supplier,Dernier avis avant recouvrement. Payez ici : hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+46,s16,job offer requiring an upfront processing fee,INFO : Recrutement : dernière étape avec frais de traitement hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+47,s06,"IT department password expiry, reset now",Alerte : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+48,s15,charity donation urgent appeal,Important : Mobilisation urgente : votre générosité est précieuse hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+49,s05,"prize/lottery win, claim within 24h",Alerte : Votre numéro a gagné. Récupérez votre prix ici : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+50,s08,HR document requires re-authentication,Alerte : Ressources Humaines : re-connexion nécessaire ici hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+51,s16,job offer requiring an upfront processing fee,"INFO : Félicitations, poste à pourvoir. Finalisez ici : hxxp://verif-exemple[.]tld Action requise.",fr,sms,smishing,1,yes
+52,s02,"package held by customs, pay a small fee",Rappel : Frais d'expédition impayés. Finalisez ici : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+53,s18,"login from a new device, confirm it was you",Alerte : Connexion depuis un nouvel appareil. Confirmez : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+54,s14,"utility bill overdue, disconnection warning",INFO : Votre service sera interrompu sous 48h. Payez : hxxp://portail-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+55,s09,streaming subscription payment failed,Votre accès sera coupé sous 24h. Réglez : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+56,s14,"utility bill overdue, disconnection warning",Coupure imminente pour impayé. Agissez ici : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+57,s06,"IT department password expiry, reset now",Rappel : Support IT : renouvellement requis de votre mot de passe hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+58,s10,shipping company delivery reschedule link,Alerte : Nouvelle tentative requise. Planifiez la livraison : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+59,s17,two-factor code confirmation request,Vérification en 2 étapes requise. Confirmez : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+60,s05,"prize/lottery win, claim within 24h",Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+61,s15,charity donation urgent appeal,Alerte : Chaque euro aide. Contribuez maintenant : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+62,s15,charity donation urgent appeal,Appel urgent aux dons. Votre aide compte : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+63,s17,two-factor code confirmation request,Alerte : Code à usage unique à valider ici : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+64,s03,"tax authority refund, confirm bank details",Important : Remboursement fiscal en attente. Validez vos coordonnées : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+65,s16,job offer requiring an upfront processing fee,Important : Recrutement : dernière étape avec frais de traitement hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+66,s09,streaming subscription payment failed,Votre accès sera coupé sous 24h. Réglez : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+67,s18,"login from a new device, confirm it was you",Rappel : Nouvelle connexion détectée. Était-ce vous ? hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+68,s17,two-factor code confirmation request,Authentification en attente. Confirmez votre code : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+69,s10,shipping company delivery reschedule link,INFO : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+70,s17,two-factor code confirmation request,Sécurité : validez le code reçu : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+71,s01,"bank account suspended, verify identity",Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+72,s12,bank card blocked for suspicious activity,Notification : Alerte fraude : confirmez vos transactions : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+73,s11,government benefit / social security update,INFO : Actualisez votre dossier pour garder vos droits : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+74,s14,"utility bill overdue, disconnection warning",Notification : Facture en retard. Maintenez votre service : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+75,s17,two-factor code confirmation request,Alerte : Code à usage unique à valider ici : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+76,s11,government benefit / social security update,Prestations sociales : vérification obligatoire ce mois hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+77,s17,two-factor code confirmation request,Important : Un code vous a été envoyé. Validez-le : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+78,s18,"login from a new device, confirm it was you",Important : Connexion depuis un nouvel appareil. Confirmez : hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+79,s03,"tax authority refund, confirm bank details",Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+80,s17,two-factor code confirmation request,INFO : Vérification en 2 étapes requise. Confirmez : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+81,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+82,s11,government benefit / social security update,Notification : Prestations sociales : vérification obligatoire ce mois hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+83,s11,government benefit / social security update,Alerte : Versement suspendu sans mise à jour. Agissez ici hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+84,s08,HR document requires re-authentication,Document confidentiel RH à lire. Validez votre session hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+85,s15,charity donation urgent appeal,"Ensemble, agissons vite. Faites un don : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+86,s10,shipping company delivery reschedule link,Transporteur : reprogrammez votre livraison : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+87,s01,"bank account suspended, verify identity",Sécurité bancaire : action requise pour débloquer votre compte hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+88,s02,"package held by customs, pay a small fee",Important : Frais de dédouanement en attente. Payez pour recevoir votre colis hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+89,s15,charity donation urgent appeal,Rappel : Mobilisation urgente : votre générosité est précieuse hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+90,s13,shared cloud document needs sign-in,INFO : Accédez au document partagé en vous connectant : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+91,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+92,s14,"utility bill overdue, disconnection warning",Rappel : Facture d'énergie impayée. Risque de coupure : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+93,s12,bank card blocked for suspicious activity,Carte suspendue par sécurité. Débloquez-la : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+94,s16,job offer requiring an upfront processing fee,Alerte : Poste confirmé ! Finalisez avec les frais de traitement : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+95,s05,"prize/lottery win, claim within 24h",Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+96,s07,unpaid invoice from a supplier,Alerte : Relance : montant dû à régler sans délai hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+97,s07,unpaid invoice from a supplier,Alerte : Relance : montant dû à régler sans délai hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+98,s10,shipping company delivery reschedule link,Notification : Votre colis n'a pas pu être livré. Choisissez un créneau hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+99,s01,"bank account suspended, verify identity",Alerte : Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+100,s18,"login from a new device, confirm it was you",Activité inhabituelle. Sécurisez votre compte : hxxp://confirmer-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+101,s10,shipping company delivery reschedule link,Notification : Colis en attente. Confirmez votre adresse : hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+102,s14,"utility bill overdue, disconnection warning",Rappel : Solde impayé. Évitez la coupure d'électricité : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+103,s13,shared cloud document needs sign-in,Notification : Document sécurisé à ouvrir. Authentifiez-vous : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+104,s04,"email/account storage full, re-login to keep account",Important : Action requise : votre stockage est plein. Connectez-vous hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+105,s18,"login from a new device, confirm it was you",Ce n'était pas vous ? Sécurisez ici : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+106,s16,job offer requiring an upfront processing fee,"Alerte : Félicitations, poste à pourvoir. Finalisez ici : hxxp://exemple-securise[.]tld",fr,sms,smishing,1,yes
+107,s11,government benefit / social security update,Important : Votre allocation nécessite une vérification : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+108,s05,"prize/lottery win, claim within 24h",Bonne nouvelle : un lot vous attend. Réclamez vite hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+109,s12,bank card blocked for suspicious activity,Alerte : Alerte fraude : confirmez vos transactions : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+110,s18,"login from a new device, confirm it was you",Nouvelle session ouverte. Confirmez votre identité : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+111,s09,streaming subscription payment failed,Alerte : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+112,s15,charity donation urgent appeal,"Alerte : Ensemble, agissons vite. Faites un don : hxxp://exemple-securise[.]tld STOP au 36111.",fr,sms,smishing,1,yes
+113,s11,government benefit / social security update,Important : Actualisez votre dossier pour garder vos droits : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+114,s01,"bank account suspended, verify identity",INFO : Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+115,s14,"utility bill overdue, disconnection warning",Rappel : Facture d'énergie impayée. Risque de coupure : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+116,s06,"IT department password expiry, reset now",Votre mot de passe arrive à expiration. Agissez ici : hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+117,s09,streaming subscription payment failed,INFO : Facturation échouée. Actualisez vos infos : hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+118,s05,"prize/lottery win, claim within 24h",Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+119,s07,unpaid invoice from a supplier,Relance : montant dû à régler sans délai hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+120,s09,streaming subscription payment failed,Abonnement en attente. Mettez à jour votre carte : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+121,s07,unpaid invoice from a supplier,Alerte : Relance : montant dû à régler sans délai hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+122,s01,"bank account suspended, verify identity",Sécurité bancaire : action requise pour débloquer votre compte hxxp://confirmer-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+123,s01,"bank account suspended, verify identity",Important : Compte temporairement bloqué. Validez vos données : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+124,s06,"IT department password expiry, reset now",Alerte : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+125,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+126,s16,job offer requiring an upfront processing fee,Important : Votre candidature est retenue. Frais de dossier à régler : hxxp://lien-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+127,s12,bank card blocked for suspicious activity,Alerte : Activité suspecte sur votre carte. Confirmez ici : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+128,s18,"login from a new device, confirm it was you",Activité inhabituelle. Sécurisez votre compte : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+129,s10,shipping company delivery reschedule link,Rappel : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://exemple-securise[.]tld Action requise.,fr,sms,smishing,1,yes
+130,s06,"IT department password expiry, reset now",Rappel : Helpdesk : validez un nouveau mot de passe avant ce soir hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+131,s12,bank card blocked for suspicious activity,Activité suspecte sur votre carte. Confirmez ici : hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+132,s11,government benefit / social security update,Important : Vos droits expirent. Mettez à jour votre dossier hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+133,s04,"email/account storage full, re-login to keep account",Alerte : Messagerie saturée. Reconnectez-vous sous 48h : hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+134,s04,"email/account storage full, re-login to keep account",INFO : Espace plein à 99%. Augmentez-le maintenant : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+135,s04,"email/account storage full, re-login to keep account",Quota dépassé. Validez votre session pour garder votre compte hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+136,s16,job offer requiring an upfront processing fee,Rappel : Offre d'emploi : petite avance requise pour le contrat hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+137,s12,bank card blocked for suspicious activity,Était-ce vous ? Confirmez pour débloquer votre carte hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+138,s12,bank card blocked for suspicious activity,Important : Votre carte a été bloquée. Vérifiez l'opération : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+139,s03,"tax authority refund, confirm bank details",Alerte : Votre remboursement de 168€ attend validation : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+140,s01,"bank account suspended, verify identity",Rappel : Activité inhabituelle détectée. Réactivez votre compte : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+141,s03,"tax authority refund, confirm bank details",Somme à vous verser. Mettez à jour votre RIB : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+142,s16,job offer requiring an upfront processing fee,"Notification : Félicitations, poste à pourvoir. Finalisez ici : hxxp://secure-exemple[.]tld",fr,sms,smishing,1,yes
+143,s16,job offer requiring an upfront processing fee,Embauche possible. Réglez les frais administratifs : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+144,s03,"tax authority refund, confirm bank details",Notification : Impôts : votre remboursement est prêt. Confirmez ici hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+145,s02,"package held by customs, pay a small fee","Alerte : Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://acces-exemple[.]tld",fr,sms,smishing,1,yes
+146,s18,"login from a new device, confirm it was you",Nouvelle session ouverte. Confirmez votre identité : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+147,s02,"package held by customs, pay a small fee","Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://secure-exemple[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+148,s04,"email/account storage full, re-login to keep account",Alerte : Stockage saturé : reconnectez-vous pour éviter la suspension hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+149,s03,"tax authority refund, confirm bank details",Votre remboursement de 168€ attend validation : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+150,s11,government benefit / social security update,Important : Vos droits expirent. Mettez à jour votre dossier hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+151,s08,HR document requires re-authentication,Portail RH : connexion sécurisée requise : hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+152,s15,charity donation urgent appeal,"INFO : Aidez en un clic, chaque don compte : hxxp://exemple-securise[.]tld",fr,sms,smishing,1,yes
+153,s05,"prize/lottery win, claim within 24h",Alerte : Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+154,s03,"tax authority refund, confirm bank details",INFO : Impôts : votre remboursement est prêt. Confirmez ici hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+155,s03,"tax authority refund, confirm bank details",Notification : Votre remboursement de 168€ attend validation : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+156,s11,government benefit / social security update,Régularisez votre situation pour vos prestations : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+157,s17,two-factor code confirmation request,Sécurité : validez le code reçu : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+158,s12,bank card blocked for suspicious activity,INFO : Était-ce vous ? Confirmez pour débloquer votre carte hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+159,s12,bank card blocked for suspicious activity,Transaction douteuse détectée. Validez vos achats : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+160,s17,two-factor code confirmation request,Notification : Saisissez votre code de sécurité pour continuer : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+161,s12,bank card blocked for suspicious activity,"Important : Par précaution, votre carte est bloquée. Réactivez : hxxp://mon-espace-exemple[.]tld",fr,sms,smishing,1,yes
+162,s10,shipping company delivery reschedule link,INFO : Livraison échouée. Reprogrammez-la ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+163,s09,streaming subscription payment failed,Rappel : Votre accès sera coupé sous 24h. Réglez : hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+164,s01,"bank account suspended, verify identity",Activité inhabituelle détectée. Réactivez votre compte : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+165,s15,charity donation urgent appeal,Mobilisation urgente : votre générosité est précieuse hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+166,s14,"utility bill overdue, disconnection warning",Facture d'énergie impayée. Risque de coupure : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+167,s05,"prize/lottery win, claim within 24h",Notification : Gain exceptionnel à valider aujourd'hui : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+168,s09,streaming subscription payment failed,Rappel : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+169,s06,"IT department password expiry, reset now",Rappel : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+170,s03,"tax authority refund, confirm bank details",Remboursement disponible. Renseignez vos coordonnées bancaires hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+171,s15,charity donation urgent appeal,Alerte : Appel urgent aux dons. Votre aide compte : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+172,s14,"utility bill overdue, disconnection warning",Alerte : Dernier rappel avant coupure. Réglez ici : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+173,s15,charity donation urgent appeal,Rappel : Un geste peut tout changer. Faites un don : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+174,s04,"email/account storage full, re-login to keep account",Rappel : Action requise : votre stockage est plein. Connectez-vous hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+175,s07,unpaid invoice from a supplier,Alerte : Relance : montant dû à régler sans délai hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+176,s02,"package held by customs, pay a small fee",Rappel : Frais d'expédition impayés. Finalisez ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+177,s09,streaming subscription payment failed,Abonnement en attente. Mettez à jour votre carte : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+178,s18,"login from a new device, confirm it was you",Ce n'était pas vous ? Sécurisez ici : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+179,s16,job offer requiring an upfront processing fee,Poste confirmé ! Finalisez avec les frais de traitement : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+180,s12,bank card blocked for suspicious activity,Rappel : Votre carte a été bloquée. Vérifiez l'opération : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+181,s03,"tax authority refund, confirm bank details",Notification : Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+182,s12,bank card blocked for suspicious activity,INFO : Carte suspendue par sécurité. Débloquez-la : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+183,s18,"login from a new device, confirm it was you",Alerte : Ce n'était pas vous ? Sécurisez ici : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+184,s14,"utility bill overdue, disconnection warning",Coupure imminente pour impayé. Agissez ici : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+185,s13,shared cloud document needs sign-in,INFO : Un document a été partagé avec vous. Connectez-vous : hxxp://secure-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+186,s14,"utility bill overdue, disconnection warning",Facture en retard. Maintenez votre service : hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+187,s16,job offer requiring an upfront processing fee,Important : Votre candidature est retenue. Frais de dossier à régler : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+188,s17,two-factor code confirmation request,Important : Saisissez votre code de sécurité pour continuer : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+189,s11,government benefit / social security update,Alerte : Votre allocation nécessite une vérification : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+190,s14,"utility bill overdue, disconnection warning",Solde impayé. Évitez la coupure d'électricité : hxxp://lien-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+191,s08,HR document requires re-authentication,Alerte : Portail RH : connexion sécurisée requise : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+192,s15,charity donation urgent appeal,"INFO : Ensemble, agissons vite. Faites un don : hxxp://service-exemple[.]tld Action requise.",fr,sms,smishing,1,yes
+193,s11,government benefit / social security update,Versement suspendu sans mise à jour. Agissez ici hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+194,s15,charity donation urgent appeal,Alerte : Un geste peut tout changer. Faites un don : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+195,s12,bank card blocked for suspicious activity,Important : Transaction douteuse détectée. Validez vos achats : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+196,s06,"IT department password expiry, reset now",Important : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+197,s15,charity donation urgent appeal,Mobilisation urgente : votre générosité est précieuse hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+198,s07,unpaid invoice from a supplier,Facture impayée. Merci de régulariser rapidement : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+199,s09,streaming subscription payment failed,Notification : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+200,s11,government benefit / social security update,Alerte : Versement suspendu sans mise à jour. Agissez ici hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+201,s07,unpaid invoice from a supplier,INFO : Facture en souffrance. Évitez les frais de retard : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+202,s05,"prize/lottery win, claim within 24h",Votre numéro a gagné. Récupérez votre prix ici : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+203,s13,shared cloud document needs sign-in,Notification : Invitation à consulter un fichier. Connectez-vous hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+204,s08,HR document requires re-authentication,Ressources Humaines : re-connexion nécessaire ici hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+205,s11,government benefit / social security update,Alerte : Vos droits expirent. Mettez à jour votre dossier hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+206,s10,shipping company delivery reschedule link,Important : Remise impossible aujourd'hui. Reprogrammez : hxxp://lien-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+207,s10,shipping company delivery reschedule link,INFO : Votre colis sera renvoyé. Choisissez une date : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+208,s11,government benefit / social security update,Versement suspendu sans mise à jour. Agissez ici hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+209,s02,"package held by customs, pay a small fee",Rappel : Frais de dédouanement en attente. Payez pour recevoir votre colis hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+210,s01,"bank account suspended, verify identity",Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+211,s15,charity donation urgent appeal,Rappel : Chaque euro aide. Contribuez maintenant : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+212,s14,"utility bill overdue, disconnection warning",Rappel : Votre service sera interrompu sous 48h. Payez : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+213,s16,job offer requiring an upfront processing fee,Important : Poste confirmé ! Finalisez avec les frais de traitement : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+214,s02,"package held by customs, pay a small fee","INFO : Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://confirmer-exemple[.]tld",fr,sms,smishing,1,yes
+215,s13,shared cloud document needs sign-in,INFO : Invitation à consulter un fichier. Connectez-vous hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+216,s03,"tax authority refund, confirm bank details",INFO : Somme à vous verser. Mettez à jour votre RIB : hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+217,s15,charity donation urgent appeal,Urgence humanitaire : soutenez-nous ici : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+218,s12,bank card blocked for suspicious activity,"Notification : Par précaution, votre carte est bloquée. Réactivez : hxxp://lien-exemple[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+219,s11,government benefit / social security update,Versement suspendu sans mise à jour. Agissez ici hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+220,s06,"IT department password expiry, reset now",Alerte : Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+221,s01,"bank account suspended, verify identity",Votre compte bancaire a été suspendu. Vérifiez votre identité : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+222,s14,"utility bill overdue, disconnection warning",Important : Dernier rappel avant coupure. Réglez ici : hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+223,s10,shipping company delivery reschedule link,INFO : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+224,s11,government benefit / social security update,Votre allocation nécessite une vérification : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+225,s18,"login from a new device, confirm it was you",Important : Nouvelle session ouverte. Confirmez votre identité : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+226,s18,"login from a new device, confirm it was you",Nouvelle session ouverte. Confirmez votre identité : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+227,s10,shipping company delivery reschedule link,Rappel : Colis en attente. Confirmez votre adresse : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+228,s13,shared cloud document needs sign-in,Rappel : Un document a été partagé avec vous. Connectez-vous : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+229,s04,"email/account storage full, re-login to keep account",Notification : Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+230,s14,"utility bill overdue, disconnection warning",Notification : Votre service sera interrompu sous 48h. Payez : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+231,s12,bank card blocked for suspicious activity,Rappel : Transaction douteuse détectée. Validez vos achats : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+232,s18,"login from a new device, confirm it was you",Alerte : Vérifiez cette connexion pour protéger votre compte hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+233,s03,"tax authority refund, confirm bank details",Remboursement disponible. Renseignez vos coordonnées bancaires hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+234,s12,bank card blocked for suspicious activity,Votre carte a été bloquée. Vérifiez l'opération : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+235,s05,"prize/lottery win, claim within 24h",Notification : Votre récompense expire ce soir. Récupérez-la : hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+236,s15,charity donation urgent appeal,Alerte : Chaque euro aide. Contribuez maintenant : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+237,s13,shared cloud document needs sign-in,Accédez au document partagé en vous connectant : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+238,s14,"utility bill overdue, disconnection warning",Votre service sera interrompu sous 48h. Payez : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+239,s01,"bank account suspended, verify identity",INFO : Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+240,s01,"bank account suspended, verify identity",Alerte : Suspension de votre compte. Identifiez-vous pour le rétablir : hxxp://portail-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+241,s18,"login from a new device, confirm it was you",Vérifiez cette connexion pour protéger votre compte hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+242,s02,"package held by customs, pay a small fee",Votre paquet ne peut être livré sans paiement des frais : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+243,s15,charity donation urgent appeal,Rappel : Chaque euro aide. Contribuez maintenant : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+244,s04,"email/account storage full, re-login to keep account",Quota dépassé. Validez votre session pour garder votre compte hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+245,s01,"bank account suspended, verify identity",Important : Sécurité bancaire : action requise pour débloquer votre compte hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+246,s10,shipping company delivery reschedule link,Remise impossible aujourd'hui. Reprogrammez : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+247,s17,two-factor code confirmation request,Important : Un code vous a été envoyé. Validez-le : hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+248,s12,bank card blocked for suspicious activity,INFO : Activité suspecte sur votre carte. Confirmez ici : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+249,s15,charity donation urgent appeal,"INFO : Aidez en un clic, chaque don compte : hxxp://service-exemple[.]tld Merci.",fr,sms,smishing,1,yes
+250,s16,job offer requiring an upfront processing fee,Important : Emploi bien payé dispo. Frais de dossier à payer : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+251,s03,"tax authority refund, confirm bank details",Notification : Somme à vous verser. Mettez à jour votre RIB : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+252,s05,"prize/lottery win, claim within 24h","Important : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://service-exemple[.]tld Merci.",fr,sms,smishing,1,yes
+253,s14,"utility bill overdue, disconnection warning",INFO : Réglez dès maintenant pour éviter l'interruption hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+254,s06,"IT department password expiry, reset now",Rappel : Support IT : renouvellement requis de votre mot de passe hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+255,s06,"IT department password expiry, reset now",Sécurité SI : mettez à jour votre mot de passe : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+256,s16,job offer requiring an upfront processing fee,Offre d'emploi : petite avance requise pour le contrat hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+257,s13,shared cloud document needs sign-in,Notification : Un collaborateur vous a envoyé un fichier : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+258,s14,"utility bill overdue, disconnection warning",Alerte : Facture d'énergie impayée. Risque de coupure : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+259,s17,two-factor code confirmation request,Rappel : Finalisez votre connexion en confirmant le code : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+260,s03,"tax authority refund, confirm bank details",Remboursement fiscal en attente. Validez vos coordonnées : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+261,s16,job offer requiring an upfront processing fee,Alerte : Poste confirmé ! Finalisez avec les frais de traitement : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+262,s18,"login from a new device, confirm it was you",Alerte : Vérifiez cette connexion pour protéger votre compte hxxp://exemple-securise[.]tld Action requise.,fr,sms,smishing,1,yes
+263,s08,HR document requires re-authentication,Ressources Humaines : re-connexion nécessaire ici hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+264,s02,"package held by customs, pay a small fee","Notification : Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://acces-exemple[.]tld Action requise.",fr,sms,smishing,1,yes
+265,s16,job offer requiring an upfront processing fee,Important : Votre candidature est retenue. Frais de dossier à régler : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+266,s01,"bank account suspended, verify identity",Important : Compte temporairement bloqué. Validez vos données : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+267,s09,streaming subscription payment failed,Rappel : Votre abonnement va être suspendu. Régularisez : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+268,s08,HR document requires re-authentication,Alerte : Votre bulletin est dispo. Confirmez votre accès : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+269,s10,shipping company delivery reschedule link,Important : Remise impossible aujourd'hui. Reprogrammez : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+270,s03,"tax authority refund, confirm bank details",Important : Remboursement disponible. Renseignez vos coordonnées bancaires hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+271,s06,"IT department password expiry, reset now",Support IT : renouvellement requis de votre mot de passe hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+272,s17,two-factor code confirmation request,Authentification en attente. Confirmez votre code : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+273,s16,job offer requiring an upfront processing fee,Alerte : Embauche possible. Réglez les frais administratifs : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+274,s10,shipping company delivery reschedule link,Rappel : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+275,s12,bank card blocked for suspicious activity,Rappel : Carte suspendue par sécurité. Débloquez-la : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+276,s18,"login from a new device, confirm it was you",Alerte sécurité : validez cette connexion : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+277,s02,"package held by customs, pay a small fee",Important : Colis bloqué : petite taxe à régler. hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+278,s02,"package held by customs, pay a small fee","Important : Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://mon-espace-exemple[.]tld Merci.",fr,sms,smishing,1,yes
+279,s05,"prize/lottery win, claim within 24h",INFO : Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+280,s16,job offer requiring an upfront processing fee,Emploi bien payé dispo. Frais de dossier à payer : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+281,s04,"email/account storage full, re-login to keep account",Alerte : Espace plein à 99%. Augmentez-le maintenant : hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+282,s08,HR document requires re-authentication,Rappel : Ressources Humaines : re-connexion nécessaire ici hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+283,s09,streaming subscription payment failed,Abonnement en attente. Mettez à jour votre carte : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+284,s14,"utility bill overdue, disconnection warning",INFO : Facture en retard. Maintenez votre service : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+285,s17,two-factor code confirmation request,Sécurité : validez le code reçu : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+286,s02,"package held by customs, pay a small fee",Alerte : Frais d'expédition impayés. Finalisez ici : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+287,s09,streaming subscription payment failed,Votre accès sera coupé sous 24h. Réglez : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+288,s09,streaming subscription payment failed,Facturation échouée. Actualisez vos infos : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+289,s04,"email/account storage full, re-login to keep account",Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+290,s01,"bank account suspended, verify identity",Compte temporairement bloqué. Validez vos données : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+291,s18,"login from a new device, confirm it was you",Un appareil inconnu a accédé à votre compte : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+292,s17,two-factor code confirmation request,INFO : Saisissez votre code de sécurité pour continuer : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+293,s13,shared cloud document needs sign-in,Rappel : Un document a été partagé avec vous. Connectez-vous : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+294,s14,"utility bill overdue, disconnection warning",Avis de suspension. Régularisez votre facture : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+295,s06,"IT department password expiry, reset now",Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+296,s09,streaming subscription payment failed,INFO : Abonnement en attente. Mettez à jour votre carte : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+297,s02,"package held by customs, pay a small fee",Colis bloqué : petite taxe à régler. hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+298,s05,"prize/lottery win, claim within 24h",INFO : Votre numéro a gagné. Récupérez votre prix ici : hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+299,s07,unpaid invoice from a supplier,Alerte : Facture impayée. Merci de régulariser rapidement : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+300,s09,streaming subscription payment failed,Notification : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+301,s13,shared cloud document needs sign-in,Rappel : Un collaborateur vous a envoyé un fichier : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+302,s14,"utility bill overdue, disconnection warning",Notification : Réglez dès maintenant pour éviter l'interruption hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+303,s09,streaming subscription payment failed,Rappel : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+304,s13,shared cloud document needs sign-in,Un collaborateur vous a envoyé un fichier : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+305,s16,job offer requiring an upfront processing fee,Embauche possible. Réglez les frais administratifs : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+306,s18,"login from a new device, confirm it was you",Notification : Un appareil inconnu a accédé à votre compte : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+307,s16,job offer requiring an upfront processing fee,"Important : Félicitations, poste à pourvoir. Finalisez ici : hxxp://verif-exemple[.]tld Merci.",fr,sms,smishing,1,yes
+308,s02,"package held by customs, pay a small fee",Alerte : Votre paquet ne peut être livré sans paiement des frais : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+309,s11,government benefit / social security update,Notification : Mise à jour de vos droits sociaux requise : hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+310,s07,unpaid invoice from a supplier,Notification : Rappel : votre facture est en attente de paiement hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+311,s11,government benefit / social security update,Sécurité sociale : confirmez vos infos : hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+312,s07,unpaid invoice from a supplier,Rappel : votre facture est en attente de paiement hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+313,s04,"email/account storage full, re-login to keep account",Rappel : Vous ne recevez plus de mails. Réactivez ici : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+314,s14,"utility bill overdue, disconnection warning",Facture d'énergie impayée. Risque de coupure : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+315,s09,streaming subscription payment failed,Rappel : Facturation échouée. Actualisez vos infos : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+316,s14,"utility bill overdue, disconnection warning",Important : Réglez dès maintenant pour éviter l'interruption hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+317,s15,charity donation urgent appeal,Alerte : Urgence humanitaire : soutenez-nous ici : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+318,s08,HR document requires re-authentication,RH : un document vous attend. Ré-authentifiez-vous : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+319,s13,shared cloud document needs sign-in,INFO : Invitation à consulter un fichier. Connectez-vous hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+320,s07,unpaid invoice from a supplier,Important : Facture en souffrance. Évitez les frais de retard : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+321,s16,job offer requiring an upfront processing fee,Votre contrat est prêt. Réglez les frais pour l'obtenir hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+322,s15,charity donation urgent appeal,Notification : Chaque euro aide. Contribuez maintenant : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+323,s12,bank card blocked for suspicious activity,"Rappel : Par précaution, votre carte est bloquée. Réactivez : hxxp://acces-exemple[.]tld",fr,sms,smishing,1,yes
+324,s03,"tax authority refund, confirm bank details",Remboursement fiscal en attente. Validez vos coordonnées : hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+325,s15,charity donation urgent appeal,Notification : Mobilisation urgente : votre générosité est précieuse hxxp://exemple-securise[.]tld Action requise.,fr,sms,smishing,1,yes
+326,s08,HR document requires re-authentication,Rappel : Portail RH : connexion sécurisée requise : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+327,s04,"email/account storage full, re-login to keep account",Messagerie saturée. Reconnectez-vous sous 48h : hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+328,s03,"tax authority refund, confirm bank details",Important : Impôts : votre remboursement est prêt. Confirmez ici hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+329,s03,"tax authority refund, confirm bank details",INFO : Somme à vous verser. Mettez à jour votre RIB : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+330,s18,"login from a new device, confirm it was you",Alerte : Un appareil inconnu a accédé à votre compte : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+331,s13,shared cloud document needs sign-in,Document sécurisé à ouvrir. Authentifiez-vous : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+332,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+333,s02,"package held by customs, pay a small fee",Alerte : Votre paquet ne peut être livré sans paiement des frais : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+334,s18,"login from a new device, confirm it was you",Important : Nouvelle connexion détectée. Était-ce vous ? hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+335,s10,shipping company delivery reschedule link,Important : Votre colis sera renvoyé. Choisissez une date : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+336,s03,"tax authority refund, confirm bank details",Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+337,s05,"prize/lottery win, claim within 24h",Important : Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+338,s13,shared cloud document needs sign-in,Alerte : Document sécurisé à ouvrir. Authentifiez-vous : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+339,s18,"login from a new device, confirm it was you",Ce n'était pas vous ? Sécurisez ici : hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+340,s10,shipping company delivery reschedule link,INFO : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+341,s14,"utility bill overdue, disconnection warning",Rappel : Solde impayé. Évitez la coupure d'électricité : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+342,s15,charity donation urgent appeal,Urgence humanitaire : soutenez-nous ici : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+343,s03,"tax authority refund, confirm bank details",Rappel : Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://secure-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+344,s17,two-factor code confirmation request,Rappel : Finalisez votre connexion en confirmant le code : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+345,s04,"email/account storage full, re-login to keep account",Rappel : Espace plein à 99%. Augmentez-le maintenant : hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+346,s16,job offer requiring an upfront processing fee,Recrutement : dernière étape avec frais de traitement hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+347,s10,shipping company delivery reschedule link,Votre colis sera renvoyé. Choisissez une date : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+348,s06,"IT department password expiry, reset now",Helpdesk : validez un nouveau mot de passe avant ce soir hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+349,s17,two-factor code confirmation request,Vérification en 2 étapes requise. Confirmez : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+350,s06,"IT department password expiry, reset now",INFO : Mise à jour de sécurité requise pour vos identifiants : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+351,s17,two-factor code confirmation request,Alerte : Confirmez votre code de vérification ici : hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+352,s09,streaming subscription payment failed,Votre abonnement va être suspendu. Régularisez : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+353,s10,shipping company delivery reschedule link,Colis en attente. Confirmez votre adresse : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+354,s10,shipping company delivery reschedule link,Important : Votre colis sera renvoyé. Choisissez une date : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+355,s07,unpaid invoice from a supplier,Dernier avis avant recouvrement. Payez ici : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+356,s11,government benefit / social security update,INFO : Mise à jour de vos droits sociaux requise : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+357,s11,government benefit / social security update,Notification : Régularisez votre situation pour vos prestations : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+358,s05,"prize/lottery win, claim within 24h","Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://verify-example[.]tld STOP au 36111.",fr,sms,smishing,1,yes
+359,s05,"prize/lottery win, claim within 24h",Alerte : Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+360,s13,shared cloud document needs sign-in,INFO : Un collaborateur vous a envoyé un fichier : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+361,s06,"IT department password expiry, reset now",Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+362,s11,government benefit / social security update,Important : Mise à jour de vos droits sociaux requise : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+363,s09,streaming subscription payment failed,Rappel : Nous n'avons pas pu vous prélever. Corrigez ici : hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+364,s10,shipping company delivery reschedule link,Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+365,s03,"tax authority refund, confirm bank details",Vous avez droit à un remboursement d'impôt. Confirmez votre RIB : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+366,s01,"bank account suspended, verify identity",Important : Sécurité bancaire : action requise pour débloquer votre compte hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+367,s01,"bank account suspended, verify identity",Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+368,s08,HR document requires re-authentication,Notification : Mise à jour de votre dossier RH. Authentifiez-vous : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+369,s14,"utility bill overdue, disconnection warning",Notification : Votre service sera interrompu sous 48h. Payez : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+370,s08,HR document requires re-authentication,Alerte : Portail RH : connexion sécurisée requise : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+371,s12,bank card blocked for suspicious activity,Paiement suspect. Vérifiez votre carte ici : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+372,s11,government benefit / social security update,Important : Régularisez votre situation pour vos prestations : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+373,s06,"IT department password expiry, reset now",Rappel : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+374,s15,charity donation urgent appeal,"INFO : Ensemble, agissons vite. Faites un don : hxxp://mon-espace-exemple[.]tld Action requise.",fr,sms,smishing,1,yes
+375,s08,HR document requires re-authentication,Mise à jour de votre dossier RH. Authentifiez-vous : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+376,s01,"bank account suspended, verify identity",Alerte : Activité inhabituelle détectée. Réactivez votre compte : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+377,s10,shipping company delivery reschedule link,Remise impossible aujourd'hui. Reprogrammez : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+378,s04,"email/account storage full, re-login to keep account",Votre compte sera désactivé. Reconnectez-vous ici : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+379,s12,bank card blocked for suspicious activity,"Notification : Par précaution, votre carte est bloquée. Réactivez : hxxp://confirmer-exemple[.]tld Merci.",fr,sms,smishing,1,yes
+380,s05,"prize/lottery win, claim within 24h",Tirage gagnant ! Validez votre lot ici : hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+381,s07,unpaid invoice from a supplier,Paiement non reçu. Téléchargez votre facture : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+382,s18,"login from a new device, confirm it was you",Alerte : Connexion depuis un nouvel appareil. Confirmez : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+383,s14,"utility bill overdue, disconnection warning",Notification : Facture d'énergie impayée. Risque de coupure : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+384,s10,shipping company delivery reschedule link,Rappel : Livraison échouée. Reprogrammez-la ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+385,s06,"IT department password expiry, reset now",Alerte : Mise à jour de sécurité requise pour vos identifiants : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+386,s06,"IT department password expiry, reset now",Notification : Support IT : renouvellement requis de votre mot de passe hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+387,s14,"utility bill overdue, disconnection warning",Rappel : Solde impayé. Évitez la coupure d'électricité : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+388,s06,"IT department password expiry, reset now",Notification : Votre mot de passe arrive à expiration. Agissez ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+389,s08,HR document requires re-authentication,INFO : Votre espace RH requiert une vérification : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+390,s03,"tax authority refund, confirm bank details",Alerte : Finances publiques : confirmez votre compte pour être remboursé hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+391,s01,"bank account suspended, verify identity",Votre compte bancaire a été suspendu. Vérifiez votre identité : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+392,s04,"email/account storage full, re-login to keep account",Notification : Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://portail-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+393,s17,two-factor code confirmation request,Important : Sécurité : validez le code reçu : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+394,s08,HR document requires re-authentication,RH : un document vous attend. Ré-authentifiez-vous : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+395,s04,"email/account storage full, re-login to keep account",Important : Votre compte sera désactivé. Reconnectez-vous ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+396,s09,streaming subscription payment failed,INFO : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+397,s04,"email/account storage full, re-login to keep account",INFO : Action requise : votre stockage est plein. Connectez-vous hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+398,s17,two-factor code confirmation request,Authentification en attente. Confirmez votre code : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+399,s16,job offer requiring an upfront processing fee,Important : Votre contrat est prêt. Réglez les frais pour l'obtenir hxxp://portail-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+400,s15,charity donation urgent appeal,INFO : Un geste peut tout changer. Faites un don : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+401,s02,"package held by customs, pay a small fee","INFO : Votre colis est retenu à la douane. Réglez 1,99€ ici : hxxp://secure-exemple[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+402,s03,"tax authority refund, confirm bank details",Remboursement fiscal en attente. Validez vos coordonnées : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+403,s01,"bank account suspended, verify identity",Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+404,s07,unpaid invoice from a supplier,Important : Solde impayé sur votre compte. Régularisez : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+405,s17,two-factor code confirmation request,INFO : Code à usage unique à valider ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+406,s13,shared cloud document needs sign-in,Notification : Fichier partagé en attente. Identifiez-vous ici : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+407,s12,bank card blocked for suspicious activity,INFO : Alerte fraude : confirmez vos transactions : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+408,s08,HR document requires re-authentication,Ressources Humaines : re-connexion nécessaire ici hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+409,s18,"login from a new device, confirm it was you",Notification : Nouvelle session ouverte. Confirmez votre identité : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+410,s11,government benefit / social security update,Notification : Actualisez votre dossier pour garder vos droits : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+411,s17,two-factor code confirmation request,Confirmez votre code de vérification ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+412,s01,"bank account suspended, verify identity",Activité inhabituelle détectée. Réactivez votre compte : hxxp://portail-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+413,s12,bank card blocked for suspicious activity,Activité suspecte sur votre carte. Confirmez ici : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+414,s10,shipping company delivery reschedule link,Alerte : Livraison échouée. Reprogrammez-la ici : hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+415,s01,"bank account suspended, verify identity",Suspension de votre compte. Identifiez-vous pour le rétablir : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+416,s03,"tax authority refund, confirm bank details",Rappel : Vous avez droit à un remboursement d'impôt. Confirmez votre RIB : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+417,s18,"login from a new device, confirm it was you",Notification : Nouvelle session ouverte. Confirmez votre identité : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+418,s06,"IT department password expiry, reset now",Important : Helpdesk : validez un nouveau mot de passe avant ce soir hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+419,s01,"bank account suspended, verify identity",Compte temporairement bloqué. Validez vos données : hxxp://portail-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+420,s16,job offer requiring an upfront processing fee,INFO : Recrutement : dernière étape avec frais de traitement hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+421,s13,shared cloud document needs sign-in,Un document a été partagé avec vous. Connectez-vous : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+422,s18,"login from a new device, confirm it was you",Notification : Alerte sécurité : validez cette connexion : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+423,s07,unpaid invoice from a supplier,Dernier avis avant recouvrement. Payez ici : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+424,s06,"IT department password expiry, reset now",Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://confirmer-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+425,s06,"IT department password expiry, reset now",Important : Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+426,s07,unpaid invoice from a supplier,Facture en souffrance. Évitez les frais de retard : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+427,s02,"package held by customs, pay a small fee","Notification : Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://secure-exemple[.]tld",fr,sms,smishing,1,yes
+428,s08,HR document requires re-authentication,INFO : RH : un document vous attend. Ré-authentifiez-vous : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+429,s18,"login from a new device, confirm it was you",Rappel : Vérifiez cette connexion pour protéger votre compte hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+430,s07,unpaid invoice from a supplier,Rappel : votre facture est en attente de paiement hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+431,s18,"login from a new device, confirm it was you",Vérifiez cette connexion pour protéger votre compte hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+432,s06,"IT department password expiry, reset now",Alerte : Vos identifiants expirent. Renouvelez-les maintenant : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+433,s14,"utility bill overdue, disconnection warning",Rappel : Dernier rappel avant coupure. Réglez ici : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+434,s04,"email/account storage full, re-login to keep account",Espace plein à 99%. Augmentez-le maintenant : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+435,s09,streaming subscription payment failed,Rappel : Facturation échouée. Actualisez vos infos : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+436,s05,"prize/lottery win, claim within 24h",Tirage gagnant ! Validez votre lot ici : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+437,s13,shared cloud document needs sign-in,Un collaborateur vous a envoyé un fichier : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+438,s13,shared cloud document needs sign-in,Important : Un fichier confidentiel vous attend. Identifiez-vous hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+439,s01,"bank account suspended, verify identity",Rappel : Suspension de votre compte. Identifiez-vous pour le rétablir : hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+440,s11,government benefit / social security update,Important : Sécurité sociale : confirmez vos infos : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+441,s08,HR document requires re-authentication,Ressources Humaines : re-connexion nécessaire ici hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+442,s09,streaming subscription payment failed,Votre abonnement va être suspendu. Régularisez : hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+443,s01,"bank account suspended, verify identity",Notification : Activité inhabituelle détectée. Réactivez votre compte : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+444,s04,"email/account storage full, re-login to keep account",Notification : Quota dépassé. Validez votre session pour garder votre compte hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+445,s05,"prize/lottery win, claim within 24h",Rappel : Votre numéro a gagné. Récupérez votre prix ici : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+446,s08,HR document requires re-authentication,Votre bulletin est dispo. Confirmez votre accès : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+447,s11,government benefit / social security update,Sécurité sociale : confirmez vos infos : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+448,s12,bank card blocked for suspicious activity,Important : Carte suspendue par sécurité. Débloquez-la : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+449,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+450,s02,"package held by customs, pay a small fee",Frais de dédouanement en attente. Payez pour recevoir votre colis hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+451,s16,job offer requiring an upfront processing fee,Emploi bien payé dispo. Frais de dossier à payer : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+452,s16,job offer requiring an upfront processing fee,Embauche possible. Réglez les frais administratifs : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+453,s18,"login from a new device, confirm it was you",INFO : Activité inhabituelle. Sécurisez votre compte : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+454,s14,"utility bill overdue, disconnection warning",Alerte : Avis de suspension. Régularisez votre facture : hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+455,s08,HR document requires re-authentication,Notification : Portail RH : connexion sécurisée requise : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+456,s04,"email/account storage full, re-login to keep account",INFO : Espace plein à 99%. Augmentez-le maintenant : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+457,s10,shipping company delivery reschedule link,INFO : Remise impossible aujourd'hui. Reprogrammez : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+458,s09,streaming subscription payment failed,Notification : Votre accès sera coupé sous 24h. Réglez : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+459,s09,streaming subscription payment failed,Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+460,s02,"package held by customs, pay a small fee",Frais d'expédition impayés. Finalisez ici : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+461,s15,charity donation urgent appeal,Chaque euro aide. Contribuez maintenant : hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+462,s08,HR document requires re-authentication,Ressources Humaines : re-connexion nécessaire ici hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+463,s18,"login from a new device, confirm it was you",INFO : Nouvelle session ouverte. Confirmez votre identité : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+464,s07,unpaid invoice from a supplier,Alerte : Facture impayée. Merci de régulariser rapidement : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+465,s06,"IT department password expiry, reset now",Important : Support IT : renouvellement requis de votre mot de passe hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+466,s01,"bank account suspended, verify identity",Sécurité bancaire : action requise pour débloquer votre compte hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+467,s04,"email/account storage full, re-login to keep account",Important : Votre compte sera désactivé. Reconnectez-vous ici : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+468,s01,"bank account suspended, verify identity",Alerte : Suspension de votre compte. Identifiez-vous pour le rétablir : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+469,s13,shared cloud document needs sign-in,Accédez au document partagé en vous connectant : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+470,s09,streaming subscription payment failed,Rappel : Facturation échouée. Actualisez vos infos : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+471,s17,two-factor code confirmation request,Important : Vérification en 2 étapes requise. Confirmez : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+472,s04,"email/account storage full, re-login to keep account",Important : Vous ne recevez plus de mails. Réactivez ici : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+473,s10,shipping company delivery reschedule link,Alerte : Votre colis n'a pas pu être livré. Choisissez un créneau hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+474,s18,"login from a new device, confirm it was you",INFO : Nouvelle session ouverte. Confirmez votre identité : hxxp://mon-espace-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+475,s06,"IT department password expiry, reset now",Alerte : Sécurité SI : mettez à jour votre mot de passe : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+476,s18,"login from a new device, confirm it was you",Nouvelle connexion détectée. Était-ce vous ? hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+477,s17,two-factor code confirmation request,Confirmez votre code de vérification ici : hxxp://verif-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+478,s11,government benefit / social security update,Prestations sociales : vérification obligatoire ce mois hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+479,s13,shared cloud document needs sign-in,Important : Document sécurisé à ouvrir. Authentifiez-vous : hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+480,s12,bank card blocked for suspicious activity,Rappel : Alerte fraude : confirmez vos transactions : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+481,s14,"utility bill overdue, disconnection warning",Rappel : Coupure imminente pour impayé. Agissez ici : hxxp://lien-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+482,s15,charity donation urgent appeal,Notification : Chaque euro aide. Contribuez maintenant : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+483,s02,"package held by customs, pay a small fee",Colis bloqué : petite taxe à régler. hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+484,s13,shared cloud document needs sign-in,Invitation à consulter un fichier. Connectez-vous hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+485,s08,HR document requires re-authentication,Rappel : Portail RH : connexion sécurisée requise : hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+486,s08,HR document requires re-authentication,Rappel : Mise à jour de votre dossier RH. Authentifiez-vous : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+487,s01,"bank account suspended, verify identity",Important : Activité inhabituelle détectée. Réactivez votre compte : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+488,s12,bank card blocked for suspicious activity,Transaction douteuse détectée. Validez vos achats : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+489,s14,"utility bill overdue, disconnection warning",Avis de suspension. Régularisez votre facture : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+490,s05,"prize/lottery win, claim within 24h",Alerte : Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+491,s12,bank card blocked for suspicious activity,Votre carte a été bloquée. Vérifiez l'opération : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+492,s13,shared cloud document needs sign-in,Alerte : Accédez au document partagé en vous connectant : hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+493,s13,shared cloud document needs sign-in,Fichier partagé en attente. Identifiez-vous ici : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+494,s10,shipping company delivery reschedule link,Alerte : Transporteur : reprogrammez votre livraison : hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+495,s09,streaming subscription payment failed,Votre accès sera coupé sous 24h. Réglez : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+496,s14,"utility bill overdue, disconnection warning",Réglez dès maintenant pour éviter l'interruption hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+497,s15,charity donation urgent appeal,Important : Appel urgent aux dons. Votre aide compte : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+498,s06,"IT department password expiry, reset now",INFO : Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+499,s01,"bank account suspended, verify identity",Rappel : Votre compte bancaire a été suspendu. Vérifiez votre identité : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+500,s18,"login from a new device, confirm it was you",Rappel : Activité inhabituelle. Sécurisez votre compte : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+501,s08,HR document requires re-authentication,Document confidentiel RH à lire. Validez votre session hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+502,s01,"bank account suspended, verify identity",Rappel : Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+503,s13,shared cloud document needs sign-in,Un document a été partagé avec vous. Connectez-vous : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+504,s07,unpaid invoice from a supplier,Important : Rappel : votre facture est en attente de paiement hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+505,s02,"package held by customs, pay a small fee","INFO : Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://acces-exemple[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+506,s04,"email/account storage full, re-login to keep account",Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+507,s05,"prize/lottery win, claim within 24h","Alerte : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://exemple-securise[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+508,s05,"prize/lottery win, claim within 24h",Notification : Gain exceptionnel à valider aujourd'hui : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+509,s16,job offer requiring an upfront processing fee,Recrutement : dernière étape avec frais de traitement hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+510,s16,job offer requiring an upfront processing fee,Poste confirmé ! Finalisez avec les frais de traitement : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+511,s15,charity donation urgent appeal,Urgence humanitaire : soutenez-nous ici : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+512,s15,charity donation urgent appeal,Appel urgent aux dons. Votre aide compte : hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+513,s03,"tax authority refund, confirm bank details",Important : Vous avez droit à un remboursement d'impôt. Confirmez votre RIB : hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+514,s03,"tax authority refund, confirm bank details",INFO : Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+515,s02,"package held by customs, pay a small fee",Alerte : Frais d'expédition impayés. Finalisez ici : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+516,s06,"IT department password expiry, reset now",Service IT : votre mot de passe expire aujourd'hui. Réinitialisez : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+517,s07,unpaid invoice from a supplier,Dernier avis avant recouvrement. Payez ici : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+518,s13,shared cloud document needs sign-in,Accédez au document partagé en vous connectant : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+519,s17,two-factor code confirmation request,Un code vous a été envoyé. Validez-le : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+520,s10,shipping company delivery reschedule link,INFO : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+521,s13,shared cloud document needs sign-in,Alerte : Un collaborateur vous a envoyé un fichier : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+522,s09,streaming subscription payment failed,Paiement refusé. Vérifiez votre moyen de paiement : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+523,s06,"IT department password expiry, reset now",Alerte : Accès bientôt bloqué. Réinitialisez votre mot de passe hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+524,s08,HR document requires re-authentication,Rappel : Ressources Humaines : re-connexion nécessaire ici hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+525,s07,unpaid invoice from a supplier,Solde impayé sur votre compte. Régularisez : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+526,s16,job offer requiring an upfront processing fee,Offre d'emploi : petite avance requise pour le contrat hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+527,s08,HR document requires re-authentication,Important : Votre espace RH requiert une vérification : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+528,s17,two-factor code confirmation request,Rappel : Saisissez votre code de sécurité pour continuer : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+529,s05,"prize/lottery win, claim within 24h","Rappel : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://lien-exemple[.]tld",fr,sms,smishing,1,yes
+530,s14,"utility bill overdue, disconnection warning",Facture en retard. Maintenez votre service : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+531,s10,shipping company delivery reschedule link,Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+532,s04,"email/account storage full, re-login to keep account",INFO : Stockage saturé : reconnectez-vous pour éviter la suspension hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+533,s02,"package held by customs, pay a small fee",Notification : Votre paquet ne peut être livré sans paiement des frais : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+534,s15,charity donation urgent appeal,Alerte : Chaque euro aide. Contribuez maintenant : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+535,s09,streaming subscription payment failed,Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+536,s14,"utility bill overdue, disconnection warning",Rappel : Réglez dès maintenant pour éviter l'interruption hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+537,s13,shared cloud document needs sign-in,INFO : Un fichier confidentiel vous attend. Identifiez-vous hxxp://portail-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+538,s12,bank card blocked for suspicious activity,Notification : Était-ce vous ? Confirmez pour débloquer votre carte hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+539,s07,unpaid invoice from a supplier,Facture en souffrance. Évitez les frais de retard : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+540,s07,unpaid invoice from a supplier,INFO : Votre facture est en retard. Consultez et réglez : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+541,s11,government benefit / social security update,Votre allocation nécessite une vérification : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+542,s05,"prize/lottery win, claim within 24h","Notification : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://verif-exemple[.]tld STOP au 36111.",fr,sms,smishing,1,yes
+543,s05,"prize/lottery win, claim within 24h",Votre récompense expire ce soir. Récupérez-la : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+544,s07,unpaid invoice from a supplier,Important : Rappel : votre facture est en attente de paiement hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+545,s03,"tax authority refund, confirm bank details",Vous avez droit à un remboursement d'impôt. Confirmez votre RIB : hxxp://exemple-securise[.]tld Action requise.,fr,sms,smishing,1,yes
+546,s06,"IT department password expiry, reset now",Important : Sécurité SI : mettez à jour votre mot de passe : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+547,s03,"tax authority refund, confirm bank details",Votre remboursement de 168€ attend validation : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+548,s11,government benefit / social security update,Rappel : Vos droits expirent. Mettez à jour votre dossier hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+549,s15,charity donation urgent appeal,"Rappel : Ensemble, agissons vite. Faites un don : hxxp://mon-espace-exemple[.]tld",fr,sms,smishing,1,yes
+550,s15,charity donation urgent appeal,Urgence humanitaire : soutenez-nous ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+551,s08,HR document requires re-authentication,INFO : Ressources Humaines : re-connexion nécessaire ici hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+552,s01,"bank account suspended, verify identity",Rappel : Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+553,s09,streaming subscription payment failed,INFO : Facturation échouée. Actualisez vos infos : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+554,s09,streaming subscription payment failed,Important : Facturation échouée. Actualisez vos infos : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+555,s10,shipping company delivery reschedule link,Alerte : Nouvelle tentative requise. Planifiez la livraison : hxxp://confirmer-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+556,s12,bank card blocked for suspicious activity,"Notification : Par précaution, votre carte est bloquée. Réactivez : hxxp://mon-espace-exemple[.]tld",fr,sms,smishing,1,yes
+557,s10,shipping company delivery reschedule link,Livraison échouée. Reprogrammez-la ici : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+558,s01,"bank account suspended, verify identity",Rappel : Compte temporairement bloqué. Validez vos données : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+559,s17,two-factor code confirmation request,Authentification en attente. Confirmez votre code : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+560,s11,government benefit / social security update,Vos droits expirent. Mettez à jour votre dossier hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+561,s15,charity donation urgent appeal,Notification : Appel urgent aux dons. Votre aide compte : hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+562,s07,unpaid invoice from a supplier,Solde impayé sur votre compte. Régularisez : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+563,s08,HR document requires re-authentication,Alerte : Mise à jour de votre dossier RH. Authentifiez-vous : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+564,s16,job offer requiring an upfront processing fee,"Important : Félicitations, poste à pourvoir. Finalisez ici : hxxp://exemple-securise[.]tld Merci.",fr,sms,smishing,1,yes
+565,s03,"tax authority refund, confirm bank details",Votre remboursement de 168€ attend validation : hxxp://verify-example[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+566,s08,HR document requires re-authentication,Alerte : Votre bulletin est dispo. Confirmez votre accès : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+567,s05,"prize/lottery win, claim within 24h","Alerte : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://secure-exemple[.]tld",fr,sms,smishing,1,yes
+568,s14,"utility bill overdue, disconnection warning",Notification : Dernier rappel avant coupure. Réglez ici : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+569,s04,"email/account storage full, re-login to keep account",Notification : Stockage saturé : reconnectez-vous pour éviter la suspension hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+570,s05,"prize/lottery win, claim within 24h",Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+571,s16,job offer requiring an upfront processing fee,INFO : Votre contrat est prêt. Réglez les frais pour l'obtenir hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+572,s06,"IT department password expiry, reset now",Votre mot de passe arrive à expiration. Agissez ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+573,s03,"tax authority refund, confirm bank details",Votre remboursement de 168€ attend validation : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+574,s08,HR document requires re-authentication,Rappel : Portail RH : connexion sécurisée requise : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+575,s18,"login from a new device, confirm it was you",Notification : Un appareil inconnu a accédé à votre compte : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+576,s13,shared cloud document needs sign-in,Important : Invitation à consulter un fichier. Connectez-vous hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+577,s14,"utility bill overdue, disconnection warning",Solde impayé. Évitez la coupure d'électricité : hxxp://verif-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+578,s07,unpaid invoice from a supplier,Notification : Relance : montant dû à régler sans délai hxxp://secure-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+579,s02,"package held by customs, pay a small fee",Important : Frais d'expédition impayés. Finalisez ici : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+580,s04,"email/account storage full, re-login to keep account",Notification : Votre compte sera désactivé. Reconnectez-vous ici : hxxp://lien-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+581,s08,HR document requires re-authentication,Notification : RH : un document vous attend. Ré-authentifiez-vous : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+582,s02,"package held by customs, pay a small fee",Notification : Votre paquet ne peut être livré sans paiement des frais : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+583,s14,"utility bill overdue, disconnection warning",Rappel : Dernier rappel avant coupure. Réglez ici : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+584,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://acces-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+585,s05,"prize/lottery win, claim within 24h",Rappel : Votre numéro a gagné. Récupérez votre prix ici : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+586,s12,bank card blocked for suspicious activity,Rappel : Alerte fraude : confirmez vos transactions : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+587,s03,"tax authority refund, confirm bank details",Alerte : Remboursement fiscal en attente. Validez vos coordonnées : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+588,s13,shared cloud document needs sign-in,Alerte : Un collaborateur vous a envoyé un fichier : hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+589,s04,"email/account storage full, re-login to keep account",Alerte : Votre compte sera désactivé. Reconnectez-vous ici : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+590,s11,government benefit / social security update,Notification : Mise à jour de vos droits sociaux requise : hxxp://service-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+591,s09,streaming subscription payment failed,Votre accès sera coupé sous 24h. Réglez : hxxp://exemple-securise[.]tld Action requise.,fr,sms,smishing,1,yes
+592,s13,shared cloud document needs sign-in,Un document a été partagé avec vous. Connectez-vous : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+593,s12,bank card blocked for suspicious activity,Important : Paiement suspect. Vérifiez votre carte ici : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+594,s10,shipping company delivery reschedule link,Alerte : Nouvelle tentative requise. Planifiez la livraison : hxxp://portail-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+595,s05,"prize/lottery win, claim within 24h","INFO : Félicitations, vous avez gagné ! Réclamez votre lot sous 24h : hxxp://service-exemple[.]tld",fr,sms,smishing,1,yes
+596,s17,two-factor code confirmation request,Important : Vérification en 2 étapes requise. Confirmez : hxxp://mon-espace-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+597,s05,"prize/lottery win, claim within 24h",Votre numéro a gagné. Récupérez votre prix ici : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+598,s13,shared cloud document needs sign-in,Important : Accédez au document partagé en vous connectant : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+599,s04,"email/account storage full, re-login to keep account",Rappel : Stockage saturé : reconnectez-vous pour éviter la suspension hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+600,s17,two-factor code confirmation request,Vérification en 2 étapes requise. Confirmez : hxxp://verify-example[.]tld Action requise.,fr,sms,smishing,1,yes
+601,s05,"prize/lottery win, claim within 24h",Important : Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+602,s13,shared cloud document needs sign-in,Rappel : Un document a été partagé avec vous. Connectez-vous : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+603,s05,"prize/lottery win, claim within 24h",Tirage gagnant ! Validez votre lot ici : hxxp://portail-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+604,s03,"tax authority refund, confirm bank details",INFO : Vous avez droit à un remboursement d'impôt. Confirmez votre RIB : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+605,s12,bank card blocked for suspicious activity,Rappel : Activité suspecte sur votre carte. Confirmez ici : hxxp://service-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+606,s02,"package held by customs, pay a small fee","Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://exemple-securise[.]tld",fr,sms,smishing,1,yes
+607,s15,charity donation urgent appeal,INFO : Un geste peut tout changer. Faites un don : hxxp://confirmer-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+608,s10,shipping company delivery reschedule link,Notification : Livraison échouée. Reprogrammez-la ici : hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+609,s05,"prize/lottery win, claim within 24h",Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+610,s10,shipping company delivery reschedule link,INFO : Nous n'avons pas pu vous joindre. Replanifiez ici hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+611,s08,HR document requires re-authentication,Nouveau document RH. Identifiez-vous pour le consulter hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+612,s08,HR document requires re-authentication,Alerte : Mise à jour de votre dossier RH. Authentifiez-vous : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+613,s02,"package held by customs, pay a small fee",Colis en attente. Réglez les frais de traitement : hxxp://secure-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+614,s11,government benefit / social security update,Rappel : Vos droits expirent. Mettez à jour votre dossier hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+615,s15,charity donation urgent appeal,Notification : Chaque euro aide. Contribuez maintenant : hxxp://acces-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+616,s06,"IT department password expiry, reset now",Notification : Helpdesk : validez un nouveau mot de passe avant ce soir hxxp://service-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+617,s10,shipping company delivery reschedule link,Notification : Votre colis sera renvoyé. Choisissez une date : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+618,s03,"tax authority refund, confirm bank details",Rappel : Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+619,s12,bank card blocked for suspicious activity,Paiement suspect. Vérifiez votre carte ici : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+620,s01,"bank account suspended, verify identity",Important : Alerte : accès à votre compte bloqué. Confirmez vos infos ici hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+621,s05,"prize/lottery win, claim within 24h",Rappel : Votre numéro a gagné. Récupérez votre prix ici : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+622,s17,two-factor code confirmation request,Important : Code à usage unique à valider ici : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+623,s13,shared cloud document needs sign-in,INFO : Un document a été partagé avec vous. Connectez-vous : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+624,s07,unpaid invoice from a supplier,Notification : Relance : montant dû à régler sans délai hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+625,s01,"bank account suspended, verify identity",INFO : Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+626,s16,job offer requiring an upfront processing fee,Rappel : Emploi bien payé dispo. Frais de dossier à payer : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+627,s10,shipping company delivery reschedule link,Rappel : Colis en attente. Confirmez votre adresse : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+628,s09,streaming subscription payment failed,Important : Nous n'avons pas pu vous prélever. Corrigez ici : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+629,s13,shared cloud document needs sign-in,Document sécurisé à ouvrir. Authentifiez-vous : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+630,s03,"tax authority refund, confirm bank details",Alerte : Impôts : votre remboursement est prêt. Confirmez ici hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+631,s15,charity donation urgent appeal,"Important : Ensemble, agissons vite. Faites un don : hxxp://exemple-securise[.]tld Ne pas ignorer.",fr,sms,smishing,1,yes
+632,s03,"tax authority refund, confirm bank details",Notification : Un trop-perçu vous est dû. Renseignez vos infos bancaires hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+633,s15,charity donation urgent appeal,Alerte : Appel urgent aux dons. Votre aide compte : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+634,s04,"email/account storage full, re-login to keep account",Espace plein à 99%. Augmentez-le maintenant : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+635,s06,"IT department password expiry, reset now",INFO : Support IT : renouvellement requis de votre mot de passe hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+636,s01,"bank account suspended, verify identity",Alerte : Votre banque : compte gelé par sécurité. Vérifiez sous 24h hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+637,s17,two-factor code confirmation request,Alerte : Vérification en 2 étapes requise. Confirmez : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+638,s07,unpaid invoice from a supplier,Important : Paiement non reçu. Téléchargez votre facture : hxxp://portail-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+639,s05,"prize/lottery win, claim within 24h",INFO : Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://mon-espace-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+640,s06,"IT department password expiry, reset now",Support IT : renouvellement requis de votre mot de passe hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+641,s15,charity donation urgent appeal,"Important : Ensemble, agissons vite. Faites un don : hxxp://verify-example[.]tld",fr,sms,smishing,1,yes
+642,s13,shared cloud document needs sign-in,Notification : Un document a été partagé avec vous. Connectez-vous : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+643,s06,"IT department password expiry, reset now",Alerte : Vos identifiants expirent. Renouvelez-les maintenant : hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+644,s12,bank card blocked for suspicious activity,INFO : Activité suspecte sur votre carte. Confirmez ici : hxxp://verify-example[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+645,s07,unpaid invoice from a supplier,Notification : Solde impayé sur votre compte. Régularisez : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+646,s14,"utility bill overdue, disconnection warning",INFO : Coupure imminente pour impayé. Agissez ici : hxxp://verif-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+647,s07,unpaid invoice from a supplier,Relance : montant dû à régler sans délai hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+648,s06,"IT department password expiry, reset now",Votre mot de passe arrive à expiration. Agissez ici : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+649,s18,"login from a new device, confirm it was you",Rappel : Alerte sécurité : validez cette connexion : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+650,s09,streaming subscription payment failed,Notification : Nous n'avons pas pu vous prélever. Corrigez ici : hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+651,s01,"bank account suspended, verify identity",Rappel : Votre compte bancaire a été suspendu. Vérifiez votre identité : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+652,s04,"email/account storage full, re-login to keep account",Important : Messagerie saturée. Reconnectez-vous sous 48h : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+653,s03,"tax authority refund, confirm bank details",Rappel : Remboursement fiscal en attente. Validez vos coordonnées : hxxp://secure-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+654,s01,"bank account suspended, verify identity",Notification : Activité inhabituelle détectée. Réactivez votre compte : hxxp://exemple-securise[.]tld Merci.,fr,sms,smishing,1,yes
+655,s07,unpaid invoice from a supplier,Important : Solde impayé sur votre compte. Régularisez : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+656,s05,"prize/lottery win, claim within 24h",Cadeau réservé à votre numéro. Réclamez avant 24h : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+657,s18,"login from a new device, confirm it was you",Important : Un appareil inconnu a accédé à votre compte : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+658,s04,"email/account storage full, re-login to keep account",Important : Votre boîte mail est pleine. Reconnectez-vous pour la conserver : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+659,s13,shared cloud document needs sign-in,Notification : Fichier partagé en attente. Identifiez-vous ici : hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+660,s17,two-factor code confirmation request,Finalisez votre connexion en confirmant le code : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+661,s10,shipping company delivery reschedule link,INFO : Transporteur : reprogrammez votre livraison : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+662,s07,unpaid invoice from a supplier,Rappel : votre facture est en attente de paiement hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+663,s07,unpaid invoice from a supplier,Alerte : Rappel : votre facture est en attente de paiement hxxp://exemple-securise[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+664,s04,"email/account storage full, re-login to keep account",Quota dépassé. Validez votre session pour garder votre compte hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+665,s06,"IT department password expiry, reset now",Rappel : Mise à jour de sécurité requise pour vos identifiants : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+666,s05,"prize/lottery win, claim within 24h",Alerte : Bonne nouvelle : un lot vous attend. Réclamez vite hxxp://secure-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+667,s10,shipping company delivery reschedule link,Livraison échouée. Reprogrammez-la ici : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+668,s16,job offer requiring an upfront processing fee,Important : Emploi bien payé dispo. Frais de dossier à payer : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+669,s15,charity donation urgent appeal,Rappel : Appel urgent aux dons. Votre aide compte : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+670,s08,HR document requires re-authentication,Notification : Ressources Humaines : re-connexion nécessaire ici hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+671,s14,"utility bill overdue, disconnection warning",Alerte : Solde impayé. Évitez la coupure d'électricité : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+672,s08,HR document requires re-authentication,Important : Ressources Humaines : re-connexion nécessaire ici hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+673,s07,unpaid invoice from a supplier,Alerte : Facture en souffrance. Évitez les frais de retard : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+674,s09,streaming subscription payment failed,Rappel : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://mon-espace-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+675,s12,bank card blocked for suspicious activity,Notification : Carte suspendue par sécurité. Débloquez-la : hxxp://verify-example[.]tld,fr,sms,smishing,1,yes
+676,s17,two-factor code confirmation request,Important : Confirmez votre code de vérification ici : hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+677,s16,job offer requiring an upfront processing fee,Votre contrat est prêt. Réglez les frais pour l'obtenir hxxp://lien-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+678,s17,two-factor code confirmation request,Confirmez votre code de vérification ici : hxxp://verif-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+679,s07,unpaid invoice from a supplier,Alerte : Paiement non reçu. Téléchargez votre facture : hxxp://exemple-securise[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+680,s08,HR document requires re-authentication,Rappel : Document confidentiel RH à lire. Validez votre session hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+681,s04,"email/account storage full, re-login to keep account",Rappel : Messagerie saturée. Reconnectez-vous sous 48h : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+682,s12,bank card blocked for suspicious activity,Activité suspecte sur votre carte. Confirmez ici : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+683,s09,streaming subscription payment failed,Votre abonnement va être suspendu. Régularisez : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+684,s03,"tax authority refund, confirm bank details",Rappel : Somme à vous verser. Mettez à jour votre RIB : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+685,s06,"IT department password expiry, reset now",Sécurité SI : mettez à jour votre mot de passe : hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+686,s17,two-factor code confirmation request,Vérification en 2 étapes requise. Confirmez : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+687,s16,job offer requiring an upfront processing fee,Votre contrat est prêt. Réglez les frais pour l'obtenir hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+688,s01,"bank account suspended, verify identity",Nous devons confirmer votre identité. Cliquez ici : hxxp://service-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+689,s02,"package held by customs, pay a small fee",INFO : Votre paquet ne peut être livré sans paiement des frais : hxxp://portail-exemple[.]tld Action requise.,fr,sms,smishing,1,yes
+690,s01,"bank account suspended, verify identity",Suspension de votre compte. Identifiez-vous pour le rétablir : hxxp://acces-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+691,s17,two-factor code confirmation request,Saisissez votre code de sécurité pour continuer : hxxp://mon-espace-exemple[.]tld,fr,sms,smishing,1,yes
+692,s04,"email/account storage full, re-login to keep account",Messagerie saturée. Reconnectez-vous sous 48h : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+693,s08,HR document requires re-authentication,Votre espace RH requiert une vérification : hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+694,s09,streaming subscription payment failed,INFO : Échec du paiement de votre abonnement. Mettez à jour ici : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+695,s12,bank card blocked for suspicious activity,Notification : Alerte fraude : confirmez vos transactions : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+696,s02,"package held by customs, pay a small fee",Frais de dédouanement en attente. Payez pour recevoir votre colis hxxp://lien-exemple[.]tld,fr,sms,smishing,1,yes
+697,s17,two-factor code confirmation request,Important : Un code vous a été envoyé. Validez-le : hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+698,s13,shared cloud document needs sign-in,Alerte : Un fichier confidentiel vous attend. Identifiez-vous hxxp://confirmer-exemple[.]tld,fr,sms,smishing,1,yes
+699,s11,government benefit / social security update,Prestations sociales : vérification obligatoire ce mois hxxp://confirmer-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+700,s03,"tax authority refund, confirm bank details",Notification : Remboursement fiscal en attente. Validez vos coordonnées : hxxp://verify-example[.]tld Merci.,fr,sms,smishing,1,yes
+701,s07,unpaid invoice from a supplier,Alerte : Rappel : votre facture est en attente de paiement hxxp://verif-exemple[.]tld,fr,sms,smishing,1,yes
+702,s16,job offer requiring an upfront processing fee,Offre d'emploi : petite avance requise pour le contrat hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+703,s04,"email/account storage full, re-login to keep account",Notification : Quota dépassé. Validez votre session pour garder votre compte hxxp://secure-exemple[.]tld Merci.,fr,sms,smishing,1,yes
+704,s13,shared cloud document needs sign-in,INFO : Accédez au document partagé en vous connectant : hxxp://secure-exemple[.]tld,fr,sms,smishing,1,yes
+705,s11,government benefit / social security update,Notification : Votre allocation nécessite une vérification : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+706,s11,government benefit / social security update,Notification : Vos droits expirent. Mettez à jour votre dossier hxxp://secure-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+707,s04,"email/account storage full, re-login to keep account",Rappel : Stockage saturé : reconnectez-vous pour éviter la suspension hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+708,s11,government benefit / social security update,Alerte : Mise à jour de vos droits sociaux requise : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+709,s12,bank card blocked for suspicious activity,"Notification : Par précaution, votre carte est bloquée. Réactivez : hxxp://secure-exemple[.]tld",fr,sms,smishing,1,yes
+710,s18,"login from a new device, confirm it was you",Connexion depuis un nouvel appareil. Confirmez : hxxp://exemple-securise[.]tld,fr,sms,smishing,1,yes
+711,s12,bank card blocked for suspicious activity,Rappel : Transaction douteuse détectée. Validez vos achats : hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+712,s06,"IT department password expiry, reset now",Notification : Votre mot de passe arrive à expiration. Agissez ici : hxxp://confirmer-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+713,s05,"prize/lottery win, claim within 24h",Alerte : Vous êtes l'heureux gagnant ! Confirmez pour recevoir hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+714,s18,"login from a new device, confirm it was you",Activité inhabituelle. Sécurisez votre compte : hxxp://acces-exemple[.]tld,fr,sms,smishing,1,yes
+715,s14,"utility bill overdue, disconnection warning",Important : Avis de suspension. Régularisez votre facture : hxxp://lien-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+716,s03,"tax authority refund, confirm bank details",Rappel : Impôts : votre remboursement est prêt. Confirmez ici hxxp://portail-exemple[.]tld,fr,sms,smishing,1,yes
+717,s18,"login from a new device, confirm it was you",Nouvelle connexion détectée. Était-ce vous ? hxxp://service-exemple[.]tld,fr,sms,smishing,1,yes
+718,s08,HR document requires re-authentication,Notification : Votre bulletin est dispo. Confirmez votre accès : hxxp://lien-exemple[.]tld STOP au 36111.,fr,sms,smishing,1,yes
+719,s13,shared cloud document needs sign-in,Important : Accédez au document partagé en vous connectant : hxxp://acces-exemple[.]tld Ne pas ignorer.,fr,sms,smishing,1,yes
+720,s02,"package held by customs, pay a small fee","Douane : montant de 2,50€ à régler pour libérer votre colis hxxp://acces-exemple[.]tld STOP au 36111.",fr,sms,smishing,1,yes

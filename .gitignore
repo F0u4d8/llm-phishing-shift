@@ -1,0 +1,15 @@
+# Whitelist: ignore everything, then allow only what the repo should contain.
+*
+!*/
+!.gitignore
+!README.md
+!requirements.txt
+!phishing_uda.ipynb
+!revision/*.py
+!data/generated/*.csv
+!results/revision/*.csv
+!results/revision/figures/*.png
+# third-party corpora: NOT redistributed (licences, size) -- see README
+data/real/**
+# broken file excluded from the corrected experiments
+data/generated/legit_*
